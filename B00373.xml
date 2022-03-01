@@ -1,0 +1,774 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The publican becomming a penitent: or The picture of a penitent sinner. Deliuered in two sermons in the cittie of London: anno 1625. / By Robert Lovell, minister of Gods word, and curate of Allhallowes-Barking within the same cittie..</title>
+            <author>Lovell, Robert, curate of Allhallows, Barking.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1625</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 82 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00373</idno>
+            <idno type="STC">STC 16858</idno>
+            <idno type="STC">ESTC S94040</idno>
+            <idno type="EEBO-CITATION">54532410</idno>
+            <idno type="OCLC">ocm 54532410</idno>
+            <idno type="VID">180834</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00373)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180834)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2139:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The publican becomming a penitent: or The picture of a penitent sinner. Deliuered in two sermons in the cittie of London: anno 1625. / By Robert Lovell, minister of Gods word, and curate of Allhallowes-Barking within the same cittie..</title>
+                  <author>Lovell, Robert, curate of Allhallows, Barking.</author>
+               </titleStmt>
+               <extent>[4], 27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.S. for Nathanael Newbery, and are to be sould at the signe of the Starre vnder St. Peters Church in Cornehill, and in Popes-head-Alley.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>1625..</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Head-pieces, initials.</note>
+                  <note>Signatures: A² B-D⁴ E².</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Luke XVIII, 13 --  Sermons --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180834:1"/>
+            <pb facs="tcp:180834:1" rendition="simple:additions"/>
+            <pb facs="tcp:180834:2"/>
+            <pb facs="tcp:180834:2"/>
+            <pb facs="tcp:180834:3"/>
+            <pb facs="tcp:180834:3"/>
+            <p>THE PVBLICAN <hi>Becomming</hi> A PENITENT: <hi>OR The Picture of a Penitent Sinner.</hi>
+            </p>
+            <p>Deliuered in TWO SERMONS in the Cittie of LONDON: <hi>Anno</hi> 1625.</p>
+            <p>
+               <hi>By</hi> ROBERT LOVELL, <hi>Miniſter of Gods word,</hi> and Curate of <hi>Allhallowes-Barking</hi> within <hi>the ſame Cittie.</hi>
+            </p>
+            <q>
+               <p>I am Confounded and aſhamed,</p>
+               <bibl>
+                  <hi>Ezra</hi> 9.6.</bibl>
+            </q>
+            <p>
+               <hi>Yet</hi>
+            </p>
+            <q>
+               <p>Be not faithleſſe, but faithfull</p>
+               <bibl>
+                  <hi>Iohn</hi> 20.27.</bibl>
+            </q>
+            <p>
+               <hi>For</hi>
+            </p>
+            <q>
+               <p>Hee came not to call the Righteous, but Sinners to Repentance.</p>
+               <bibl>
+                  <hi>Mat.</hi> 9.13.</bibl>
+            </q>
+            <p>
+               <hi>Therefore Perge Publicane, incaepto opere, vrge &amp; iuſta.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>T. S.</hi> for <hi>Nathanael Newbery,</hi> and are to be ſould at the ſigne of the Starre vnder S<hi rend="sup">t</hi>. <hi>Peters</hi> Church in Cornehill, and in Popes-head-Alley. 1625.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:180834:4"/>
+            <pb facs="tcp:180834:4"/>
+            <head>TO THE RIGHT VVorſhipfull M<hi rend="sup">r</hi>. THOMAS RYVES, D<hi rend="sup">r</hi>. <hi>of the Ciuill Law, His Maieſties Aduocate,</hi> and my ſingular good Maſter and Patron: All increaſe of Honour heere, and happineſſe here-after, humbly prayed for of your Poore Scholler <hi>Robert Louell.</hi>
+            </head>
+            <opener>
+               <salute>MVCH REVERENCED,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">A</seg>ND truly Honoured Sir,</hi> To whom ſo much hath beene giuen (as by <hi>You</hi> to <hi>Me</hi>) of him both piety and honeſty require that ſomething ſhould be re<g ref="char:EOLhyphen"/>turned (from <hi>Me</hi> to <hi>You.</hi>)</p>
+            <p>I neuer looke on the <hi>Riuers</hi> which empt themſelues into the <hi>Seas</hi> from whence they came; nor on the <hi>Birds</hi> which whiſtle and ſing to the glory of their <hi>Maker;</hi> nor on the <hi>Beaſts</hi> that yeeld themſelues to be our food for their Fodder; but I thinke what I ſhould be vnto <hi>You. You</hi> that clothed <hi>Mee</hi> when I was naked; <hi>You</hi> that fed <hi>Mee</hi> when I was Hungry; <hi>You</hi> that entertained <hi>Mee</hi> when I was a Meere Stranger to <hi>you; You</hi> that ſince that, both <hi>countenanced</hi> and <hi>Comforted Mee</hi> when I was Caſt out as an Out-Caſt, and Off-ſcouring; To <hi>You</hi> I owe <hi>My Selfe</hi> and <hi>Seruice</hi> in ſuch a manner and meaſure as that I wiſh (as a great part of <hi>my</hi> happineſſe) it were in <hi>Mee</hi> or <hi>Mine</hi> to doe <hi>You</hi> any
+<pb n="20" facs="tcp:180834:5" rendition="simple:additions"/>ſeruice that might be worth <hi>your</hi> acceptance.</p>
+            <p>That little which I had in the Country from that <hi>Horne</hi> of my preſent <hi>Comfort,</hi>
+               <note place="margin">
+                  <hi>M<hi rend="sup">r</hi>.</hi> Iſaack Horne <hi>now Parſon of</hi> Elſ<g ref="char:EOLhyphen"/>field in Hamp<g ref="char:EOLhyphen"/>ſhire.</note> by <hi>your</hi> meanes I kept in the <hi>Vni<g ref="char:EOLhyphen"/>uerſitie,</hi> without whoſe <hi>Charity,</hi> (I confeſſe freely, I bleſſe God humbly, and thanke you heartily) both <hi>this Talent</hi> and <hi>Trader</hi> had beene buried: And what then can I doe leſſe (that can doe no more) but <hi>Agnoſcere Thaletem,</hi> and with <hi>Mandratus, Non celere Autorem?</hi> To ſpeake then as it is —<hi>Tu Herus, Tu patronus, Tu pater eſſes, ſi deſeris Tu Perimus.</hi>
+            </p>
+            <p>I am therefore againe moſt humbly to beſeech <hi>your good Worſhip</hi> to looke on ſo worthleſſe obiects as <hi>This Worke</hi> and <hi>Workman,</hi> both which had long ſince ſuncke without your <hi>Louing Supportation:</hi> of your woonted goodneſſe then, which hath bin euer knowne to be <hi>ANY HONEST POORE MANS REFVGE,</hi> I am to craue this fauour alſo, which is, that you would <hi>Shrowd</hi> this <hi>Sinner</hi> vnder your <hi>Sanctimony:</hi> he is <hi>Aſhamed to Speake</hi> vnto <hi>God,</hi> and <hi>I</hi> to <hi>you,</hi> but <hi>Literae non erubeſcunt,</hi> and therefore I bid my <hi>Lines</hi> beg the continuance of your <hi>Loue,</hi> which if you ſhall grant, I will promiſe, that if euer this <hi>Dry Tree</hi> doth bring forth <hi>Better fruit,</hi> you ſhall be ſure of the <hi>Firſt Taſt;</hi> which if you grant, I ſhall euer giue you that which you haue deſerued, euen <hi>The Praiſes</hi> which I cannot <hi>write,</hi> and <hi>The Praiers</hi> which I am not able to <hi>vtter,</hi> wiſhing the <hi>En<g ref="char:EOLhyphen"/>creaſe</hi> of your <hi>Honors</hi> here on <hi>Earth,</hi> and the <hi>Accom<g ref="char:EOLhyphen"/>pliſhment</hi> of your <hi>Hoped-for-Happineſſe</hi> in the king<g ref="char:EOLhyphen"/>dome of <hi>Heauen,</hi> yea <hi>Theſe</hi> ſhall be continually implored by</p>
+            <closer>
+               <signed>Your Worſhips poore Scholler and euer oblieged Seruant ROBERT LOVELL.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:180834:5"/>
+            <head>The Picture of a Penitent SINNER.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>LVKE 18.13.</hi>
+                  </bibl>
+                  <p>But the Publicane ſtanding a farre off, would not lift vp ſo much as his eyes to heauen, but ſmote his breaſt, and ſaid: O God be mer<g ref="char:EOLhyphen"/>cifull to mee a Sinner.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>T is euident, that ſome ſeeme iuſt, and are ſo, as <hi>Noah:</hi>
+               <note place="margin">Gen. 6.9.</note> Others neither ſeeme nor are ſo, as thoſe in <hi>Iſaiahs</hi> time.<note place="margin">Iſay. 5.11.</note> Some againe ſeeme to bee righteous, but are not ſo, as the High Prieſts and Scribes.<note place="margin">Luke 20.20.</note> Others againe ſeeme not to be iuſt, and yet are ſo, as the humble in <hi>Iohs</hi> time.<note place="margin">Iob 12.4.</note> Of the two laſt ſpeaketh this Parable, vnder the names of a Pha<g ref="char:EOLhyphen"/>riſee and of a Publican.<note place="margin">Theodoricus Le<g ref="char:EOLhyphen"/>gic. Analyſ. in Dominic. <hi>11.</hi> poſt Trin. fo. <hi>346</hi> in <hi>88.</hi>
+               </note> 
+               <hi>Sub quorum Perſonà inſlatos Iuſticiari<g ref="char:EOLhyphen"/>os Graphisè perſtringit, miſeros verò &amp; abiectos Peccatores paeni<g ref="char:EOLhyphen"/>tentiam agentes mirifice erigit:</hi> Vnder whoſe perſon hee doth curiouſly paint out the proud Iuſticiarie, and no leſſe admi<g ref="char:EOLhyphen"/>rably raiſe vp the humble and abaſed ſinner repenting and a<g ref="char:EOLhyphen"/>mending: yea, ſee here our Sauiour reſiſting the former, but giuing grace to the latter, <hi>verſe</hi> 14. whom he here brings in, firſt, <hi>ſtanding a farre off;</hi> ſecondly, <hi>not daring to looke vp;</hi> third<g ref="char:EOLhyphen"/>ly, <hi>ſmiting his breaſt;</hi> fourthly, <hi>confeſſing his miſery, and Petiti<g ref="char:EOLhyphen"/>oning Gods Mercy.</hi> In whom behold, <hi>the very picture of a true Penitent,</hi> who being truely humbled, cannot but manifeſt it, <hi>Et in ſigno, et in animo, et in dicto, et in facto,</hi>
+               <note place="margin">Goran. ibid.</note> both outwardly and inwardly, both in word and deede. But as Chriſt ſaid
+<pb n="2" facs="tcp:180834:6"/>to his beloued Diſciple.<note place="margin">Iohn 19.27. <hi>Diuiſio.</hi>
+               </note> 
+               <hi>Behold thy Mother:</hi> ſo I now ſay to you my beloued brethren, <hi>Behold the Man.</hi>
+            </p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, Standing a farre off: <hi>Ecce timor,</hi> behold his feare.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, Not lifting vp his eyes: <hi>Ecce pudor,</hi> behold his ſhame.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, Smiting his Breaſt: <hi>Ecce dolor,</hi> behold his ſor<g ref="char:EOLhyphen"/>row.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, Saying, God be mercifull, &amp;c. <hi>Ecce vera con<g ref="char:EOLhyphen"/>feſſio,</hi> behold a true and humble confeſſion: yea looke on him againe, and you ſhall plainely perceiue:
+<list>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, Feare in his Conſcience, for <hi>Hee ſtood a farre off,</hi> as knowing his <hi>Filthineſſe.</hi>
+                     </item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, Shame in his face, for <hi>Hee would not looke vp,</hi> as confeſſing his <hi>
+                           <g ref="char:V">Ʋ</g>nworthineſſe.</hi>
+                     </item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, Sorrow in his heart, for <hi>Hee ſmote his Breaſt,</hi> as ſhewing his <hi>Penſiueneſſe.</hi>
+                     </item>
+                     <item>
+                        <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, Confeſſing with his mouth, for he ſaid <hi>He was a Sinner,</hi> euen laden with <hi>Miſerableneſſe.</hi>
+                     </item>
+                  </list>
+               </item>
+            </list>
+            <p>Theſe foure, oh how ſeemely are they in a <hi>Sinner</hi> that meanes to be a <hi>Saint.</hi> Sure mee thinkes they are like vnto thoſe foure Heads of the Riuer that ranne in <hi>Eden,</hi>
+               <note place="margin">Gen. 2.10.</note> which much refreſhed the Earth: or I may compare them to thoſe foure Pillars in the Tabernacle,<note place="margin">Exod. 36.36.</note> which much ſtrengthened it; or I may liken them to thoſe foure Rowes of Stones in <hi>Arons</hi> Breaſt,<note place="margin">Exod. 39.10.</note> which much adorned it: Euen ſo ſurely, theſe foure gifts of Grace, doe as much refreſh, ſtrengthen, and a<g ref="char:EOLhyphen"/>dorne thoſe that haue them. Come then and let vs in Gods name and feare doe as he did, euen ſtand a farre off. <hi>Ecce ti<g ref="char:EOLhyphen"/>mor,</hi> Behold his feare.</p>
+            <p>It is obſeruable that there are two things which make vn<g ref="char:EOLhyphen"/>willingneſſe of approach of one to the other.</p>
+            <list>
+               <item>The firſt is <hi>greatneſſe</hi> without.</item>
+               <item>The ſecond is <hi>guiltineſſe</hi> within:</item>
+            </list>
+            <list>
+               <item>For the former,<note place="margin">Pſal. 77.13.</note> 
+                  <hi>whoſo great a God as our God?</hi>
+               </item>
+               <item>For the latter, <hi>whoſo guiltie as a Publicane?</hi>
+               </item>
+            </list>
+            <p>A man odious to the Iewes, becauſe that office of Tole<g ref="char:EOLhyphen"/>gatherings was an inſtrument and monument of their ſub<g ref="char:EOLhyphen"/>iection
+<pb n="3" facs="tcp:180834:6"/>to the <hi>Romanes,</hi> held of the <hi>Iewes</hi> for the vildeſt that euer liued, and ſo accordingly packt and parralelled, euen with Sinners, <hi>Matth.</hi> 9.9.11. with Heathen, <hi>Matth.</hi> 18.17. nay, with Harlots, <hi>Mat.</hi> 21.31. <hi>Publicanus, quaſi Publicus Pecca<g ref="char:EOLhyphen"/>tor,</hi> ſaith one; for <hi>Amiſſo Pudore, publicè peccat,</hi>
+               <note place="margin">Beda Aeſtiuale: de ſanctis in feſt. Mat. Tom. <hi>7.</hi> fol. <hi>138.</hi>
+               </note> 
+               <hi>vel publicèſceleri<g ref="char:EOLhyphen"/>bus foedatur:</hi> hauing eaten ſhame, he drinkes after it; nay, ſome ſtraining the word beyond the Grammaticall ſence,<note place="margin">Publicanum De<g ref="char:EOLhyphen"/>ctorem ſcilicet foenoris &amp; aua<g ref="char:EOLhyphen"/>ritia. Iniquum rapacem, exa<g ref="char:EOLhyphen"/>ctorem, furem &amp; deſperatum. Peccatore<g ref="char:cmbAbbrStroke">̄</g> fuiſſe inquit Chryſolo<g ref="char:EOLhyphen"/>gus. 06 Ser. <hi>28.</hi> Telonium, ſiue Domus Telona<g ref="char:EOLhyphen"/>ria erat, in qua vectigalia colli<g ref="char:EOLhyphen"/>gebant &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>it ve<g ref="char:EOLhyphen"/>rè officina frau<g ref="char:EOLhyphen"/>dem &amp; Rapi<g ref="char:EOLhyphen"/>narum erat. The<g ref="char:EOLhyphen"/>odoricus infeſt. S. Mat. Tom. <hi>3.</hi> pag. <hi>536.</hi>
+               </note> ſay by way of Aggrauation, that it is, <hi>Publicanus, quaſi publi<g ref="char:EOLhyphen"/>cus canis;</hi> one who was gaping with his mouth, greedie in his heart, and griping with his hand; ſearching diligently, toleing deepely, and taking vnmercifully whatſoeuer was vn<g ref="char:EOLhyphen"/>cuſtomed among the Iewes. Of all which it may ſeeme, this my Publican was guiltie, and that made him in the Temple, <hi>Stare, imo Diſtare,</hi> to ſtand; yea, and to keepe his diſtance too, ſtanding <hi>a farre off,</hi> but why <hi>a farre off?</hi> euen for <hi>Feare:</hi> Whence may it pleaſe you to learne by his example, <hi>With what Reuerence and Feare Sinners ſhould approach Gods San<g ref="char:EOLhyphen"/>ctuarie.</hi>
+            </p>
+            <p>If men were but once as throughly awaked from their ſinnes, as <hi>Iacob</hi> was from his ſleepe, <hi>Gen.</hi> 28.16. they would ſurely doe, as <hi>Salomon</hi> ſaith, <hi>Take heede to their feete when they enter into the houſe of God.</hi> For verily (ſaith <hi>Iacob</hi>) <hi>The Lord is in this place, and I knew not of it;</hi> but when he perceiued that it was ſo indeede, what did he? <hi>Timuit ita<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>,</hi> therefore hee was afraid and ſaid; <hi>How fearefull is this place?</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>it is none other but the houſe of God and Gate of heauen, Verſe</hi> 17. <hi>Terribilis planè locus,</hi>
+               <note place="margin">Gen. 28.16. Eccleſ. 4.17. <hi>Bern. de dedicat. Eccleſiae. ſerm</hi> 6. Pſal. 84 10. Luke 2.37. Gen. 28.10.35.7. Exod. 40.34. 1 King. 8.10.</note> 
+               <hi>quem fideles viri habitant, quem ſancti Angeli frequentant, quem ſua quoque praſentia Dominus ipſe dignatur.</hi> It is ſurely a feare<g ref="char:EOLhyphen"/>full place, to which the Saints on earth reſort, which An<g ref="char:EOLhyphen"/>gels in heauen frequent, yea which the Lord himſelfe, that is both Lord of heauen and earth doth dignifie with his owne holy preſence, and aſſiſtance in the publique ſacred duty which is performed by the congregation of the faithfull.</p>
+            <p>Is it then any maruell that this Publican ſtands a farre off? or that we ſinners come not neere but with <hi>Feare?</hi> If men would but duely conſider in how glorious a manner God is preſent in all his Ordinances, as in Preaching, Hearing,
+<pb n="4" facs="tcp:180834:7"/>Praying, and adminiſtring of the Sacraments; or if they would but ſeriouſly call to minde, how true he is of his word, how ſweet in his promiſes, how terrible in his threats, could they then ſay leſſe then <hi>Peter</hi> did?<note place="margin">Luke <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.8.</note> 
+               <hi>Lord goe from me for I am a ſinfull man;</hi> or doe leſſe then <hi>Dauid</hi> did, <hi>Euen in feare wor<g ref="char:EOLhyphen"/>ſhip towards his holy Tabernacle?</hi> or rather with my Publican, <hi>Stand a farre off?</hi>
+               <note place="margin">Pſal. 5.7.</note>
+            </p>
+            <p>But ſhould we doe ſo?<label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>1</label> Oh then all yee that drop into the Church for by-reſpects, or driue hard into the Church with<g ref="char:EOLhyphen"/>out any reſpect<g ref="char:punc">▪</g>
+               <note place="margin">Eccleſ. 4.17. Exod 3.3.</note> 
+               <hi>take heede to your feete, put off your ſhooes,</hi> come yee more reuerently and religiouſly affected then many of you come; for <hi>Terribilis planè locus,</hi> it is ſurely <hi>a fearefull place.</hi> No Place of Princes,<note place="margin">
+                  <hi>Theodoret in</hi> Exod. 3 3.</note> no Pallace of earthly Potentates can be compared vnto it. It exceedes the <hi>Senators Seate,</hi> or <hi>Aha<g ref="char:EOLhyphen"/>ſhuerohs Court,</hi>
+               <note place="margin">Heſter 4.2.</note> into neither of which any might enter, but with regard and reuerence. None cloathed in Sack-cloath might appeare in the latter, and if there were no admittance for ſuch courſe Habits, doe we thinke to haue here accep<g ref="char:EOLhyphen"/>tance with ſuch Conſcienceles hearts? No, no, if thither they might not come with ſuch bare ſuits, then much leſſe hi<g ref="char:EOLhyphen"/>ther may not you come with ſuch bad ſoules. Here is no roome for ſuch as come with <hi>crooked feete, <milestone type="tcpmilestone" unit="unspecified" n="1"/> deafe eares, and vn<g ref="char:EOLhyphen"/>circumciſed hearts.</hi>
+               <note place="margin">Ezech. 44.7.</note> Indeede I cannot deny, but hither yee come in as great abundance, <milestone type="tcpmilestone" unit="unspecified" n="2"/> as the <hi>Iewes</hi> did in <hi>Ezechiels</hi> daies, <milestone type="tcpmilestone" unit="unspecified" n="3"/> but whether for the better or the worſe, as the <hi>Corinthi<g ref="char:EOLhyphen"/>ans</hi> in S. <hi>Pauls</hi> time,<note place="margin">Ezech. 33.33. 1 Cor. 11.</note> that I much doubt and feare: for ſome come with <hi>vncleane feete,</hi> that is, without decencie and reue<g ref="char:EOLhyphen"/>rence; yea, <milestone type="tcpmilestone" unit="unspecified" n="1"/> I had almoſt ſaid, without manners or man<g ref="char:EOLhyphen"/>hood, but to theſe I will ſay no more then either the Wiſe man warrants me, <hi>Take heed to thy feete;</hi> or then our Saui<g ref="char:EOLhyphen"/>our admoniſheth,<note place="margin">Eccleſ 4.17. Iohn 13.10.</note> 
+               <hi>waſh your feete.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Againe, others come with Deafe eares, euen Adders eares, which will not <hi>heare the Charmer,</hi>
+               <note place="margin">Pſal. 58.4.5. Acts 17.21.</note> 
+               <hi>charme hee neuer ſo wiſely.</hi> Theſe are of the <hi>Athenian</hi> breede, <hi>All for newes,</hi> ſo that if the Miniſter out of his ſtore bring not euery day new things, he were as good ſay nothing, and indeede as good nothing, as neuer the neere; for what fruit comes to itching eares, but
+<pb n="5" facs="tcp:180834:7"/>ſcratching or clawing Doctrines, which where it abounds, in the end it will proue but a ſoare, if not a wound, and where then is your Feare!</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Laſtly, a third ſort come, but it is with vncircumciſed hearts, not reſolued to obey, but ſpeake wee firſt, what; ſe<g ref="char:EOLhyphen"/>condly, when; thirdly, how we will, euen firſt, the Word; ſecondly, in ſeaſon; thirdly, purely; yet for all this, how ma<g ref="char:EOLhyphen"/>ny alas are found as <hi>Iſrael</hi> was, euen ſtained with their owne workes, and going a whoring after their owne inuentions?<note place="margin">Pſal. 106.39.</note> ſo that now many are broken out into the <hi>Iewes</hi> outrage, and plainely ſay to their Preachers as they did to their Pro<g ref="char:EOLhyphen"/>phets: <hi>The word that THOV haſt ſpoken vnto vs in the name of the Lord, we will not heare it,</hi>
+               <note place="margin">Ier. 44<g ref="char:punc">▪</g> 16.17.</note> 
+               <hi>but we will doe whatſoeuer goeth out of our owne mouthes:</hi> but to all ſuch I will ſay, they are Publicans, and being ſo, I would for their owne ſakes, that they did know their Place, and I wiſh them for their owne ſoules ſake, that they would keepe their diſtance, and ſtand a farre off.</p>
+            <p>All which though I ſpeake to Publicans and Sinners,<label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> yet herein I will not omit a word of comfort to them that de<g ref="char:EOLhyphen"/>ſire to bee Saints, who either are afraide to come, or that come in feare, for the comfort of ſuch I ſay, Stand not too long a farre off, for if thou beeſt <hi>laden,</hi>
+               <note place="margin">Mat. 11.29. Iohn 7.37. Iohn 13.5. Mat. 25.34.</note> come and bee <hi>eaſed;</hi> if <hi>thirſty,</hi> come and be <hi>refreſhed;</hi> if <hi>vncleane,</hi> come and be <hi>waſhed;</hi> if ſeeming to be forſaken, yet come, and be recci<g ref="char:EOLhyphen"/>ued: Oh come and make no long tarrying, but come to him as thou ſeeſt him comming to thee,<note place="margin">Cant. 2.8.9.</note> euen <hi>leaping on the Mountaines, and skipping on the hils, like a Roe or young Hart;</hi> that is, with ioy, ſpeede, and great haſt.</p>
+            <p>Oh but I am <hi>afraide</hi>— No matter,<label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> for if <hi>Feare</hi> like a <hi>Needle</hi> make its Entrance; <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> beleeue it for certaine that <hi>Loue</hi> like a <hi>Thread</hi> will haue its Continuance: and there<g ref="char:EOLhyphen"/>fore for my part, I will neuer be ſo much afraide of the fearefull that <hi>ſtand a far off,</hi> though he be as bad as a Publican, as of him that is Audatious, and approcheth neere though he be as Strickt as a Phariſee; for to ſpeake the truth that Faith is not, nor can be firme, that is not accompanied with Feare;
+<pb n="6" facs="tcp:180834:8"/>yea, <hi>Tunc ſides ſolida eſt, quando caſto amori Diuinitatis adhibe<g ref="char:EOLhyphen"/>tur timor:</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aſſiodor. in Pſal. <hi>5.7.</hi>
+               </note> Then indeed is faith ſound, when vnto thy chaſt <hi>Loue</hi> of the Deity thou addeſt <hi>feare,</hi> euen <hi>feare</hi> of preſuming, for <hi>This;</hi>
+               <note place="margin">1 Iohn 4.18.</note> 
+               <hi>Perfect loue caſteth forth.</hi> Oh then <hi>approach and draw neere</hi> thou <hi>fearefull</hi> ſoule, and heare what thy Sauiour ſaith, attend to the things which belong to thy peace; for <hi>God ſpeaketh peace unto his people,</hi>
+               <note place="margin">Pſal. 85.8.</note> 
+               <hi>and ioy to his Saints, that they turne not againe:</hi> Be not therefore ouer-much diſmayed with any feare,<note place="margin">Luke 16.20. Iob 2.7.</note> for though thou beeft as full of ſinnes as <hi>Lazarus</hi> was of ſoares, or <hi>Iob</hi> of blaines and botches, yet come vnto him with feare, and kiſſe him with reuerence, and he will ſurely embrace thee on euery ſide, and make thee to ſit with his Saints in Glory and great ioy. But I will no longer bur<g ref="char:EOLhyphen"/>then you with his feare, but will rather now diſcouer his ſhame, which was ſuch as that he would not lift vp his eyes to Heauen. <hi>Ecco pudor,</hi> behold his ſhame.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pars </seg>ſecunda.</label> Sinne is obſerued to bring vpon man three miſchiefes: firſt, infamy on his name: ſecondly, ſtrangnes with his <hi>God,</hi> third<g ref="char:EOLhyphen"/>ly, weakenes of his faith to looke vp; the laſt of theſe we may ſee in this mans eyes, with which hee would not ſo much as looke vp.<note place="margin">Beda Gloſ. ord. &amp; Hug. Card. in loc.</note> 
+               <hi>Sicut humilis non audet appropinquare vt deus appropin<g ref="char:EOLhyphen"/>quet, ita non aſpicit vt aſpiciatur:</hi> As an humble man dares not draw neere to <hi>God,</hi> that <hi>God</hi> may draw neere to him: ſo nei<g ref="char:EOLhyphen"/>ther dares he looke vp vnto <hi>God</hi> that <hi>God</hi> may looke downe on him.</p>
+            <p>But why would he not looke vp vnto heauen?</p>
+            <p>
+               <hi>Quiaſe attendebat,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Queſt. </seg>
+               </label> 
+               <hi>et ſe ita attendebat; vt primò ſibi diſpliceret, et ſic Deo placeret:</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> That he might behold himſelfe, yea &amp; that ſo intentiuely behold himſelf as that he might be ſo through<g ref="char:EOLhyphen"/>ly diſpleaſed with himſelfe,<note place="margin">Aug. in hunc loc. in Pſal 13. &amp; ſer. de verbis Domini. ſer. <hi>36.</hi> fol. <hi>99.</hi> Plautus in Moſtell.</note> that <hi>God</hi> might be pleaſed with him through his Sauiour.</p>
+            <p>The Comicke could ſay, <hi>Malè ſibi conſcius non audet rectè intueri alios:</hi> A theefe dare not directly looke an honeſt man in the face, much leſſe dare this Publican looke vp vnto <hi>God. Ecce pudor,</hi> behold his ſhame.</p>
+            <p>
+               <hi>And it is indeed a good ſigne for a Sinner, or rather of a Saint, to be abaſhed and aſhamed.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>Ecce pudor,</hi> behold his ſhame.</p>
+            <pb n="7" facs="tcp:180834:8"/>
+            <p>
+               <hi>Diogenes</hi> could tell the yong man that bluſhed, that it was vertues colour: <hi>Tullie</hi> tels vs,<note place="margin">Diogen. apud Diog. Laer. lib. Cicero de Orat. Quint. lib. <hi>12.</hi> Declamat. <hi>12.</hi> Chryſ. ſup. Ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Hom. <hi>33.</hi>
+               </note> that it is the Gardian of all the Vertues; and <hi>Quintillian</hi> writes it, the Mother of Modeſtie, The Gardian of Vertue, and Miſtriſſe of Innocencie: yea, and that golden mouthed Father cals it, <hi>Fraenum vitiorum,</hi> the re<g ref="char:EOLhyphen"/>ſtrainer of vices; yea, and note the Penitents of old, and ſee them approaching Gods preſence, <hi>Confounded and aſhamed,</hi> ſo <hi>Ezra;</hi> with <hi>Open ſhame,</hi> ſo <hi>Daniel; Standing at Chriſts feete,<note place="margin">Ezra 9 6. Dan. 9.7. Luke 7.38. <hi>Dyoniſ. Carth. in loc.</hi>
+                  </note> and behinde him,</hi> ſo <hi>the woman that was a ſinner: Conſiderando enim peccatorum ſuorum enormitatem in tantum contempſerint ſe<g ref="char:EOLhyphen"/>ipſos, &amp;c.</hi> for conſidering the enormiouſneſſe of their ſinnes, ſo deſpiſed themſelues, as that they thought themſelues in no wiſe worthy of approaching Gods preſence, no not ſo much as to fall downe at his foot-ſtoole, much leſſe to looke him in the face.</p>
+            <p>And if this be ſo,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> I wonder then with what face ſome can approach Gods preſence, who neuer yet ſhewed their feare of ſinne, nor ſhame for it, and yet thinke that they may lift vp their heads ſo high as heauen in ſelfe, yea vnto the God of heauen himſelfe: yea though their ſinnes be in number, as the ſands; in nature, as a menſtruous cloath; in weight, as ſtones, lead, or iron, yet can they carry them away as lightly on their ſoules as <hi>Sampſon</hi> did the Gates of <hi>Azza,</hi>
+               <note place="margin">Iudg. 16.3.</note> on his ſhoulders, and thinke it no burthen, much leſſe count it any ſhame. Men can now a daies be as proud as <hi>Pharaoh,</hi> as drunken as <hi>Balthaſar,</hi> as couetous as <hi>Nabal,</hi> as prophane as <hi>Eſau,</hi> as adulterous as <hi>Zimri</hi> and <hi>Cosbie;</hi> and yet are they a<g ref="char:EOLhyphen"/>ſhamed? no ſurely, as <hi>Ieremy</hi> ſaid to the <hi>Iewes,</hi>
+               <note place="margin">Ier. 6.15.</note> ſo I feare mee may I ſay to ſome Chriſtians, <hi>They are not aſhamed:</hi> for it they were, then would they not giue their foule ſinnes ſuch fine names as ſome doe, or as one ſayes, <hi>they would not die their courſe cloath in ſuch fine colours,</hi> palliateing their ſins, that they may ſtill keepe them and commit them. No, no, if ſhame had but its ſeate, then would they not make their Oathes, the Gentlemans Armes, Blaſphemies their ordina<g ref="char:EOLhyphen"/>rie ſpeeches, Pride their handſomneſſe, Drunkenneſſe their good-fellowſhip, Prodigalitie their bounty, and Adultery
+<pb n="8" facs="tcp:180834:9"/>but a tricke of youth,<note place="margin">Aug. Confeſ. dib. <hi>2.</hi> cap. <hi>6.</hi> Senec. Epiſt. <hi>45.</hi>
+               </note> which the holy Fathers, nay which is more, euen heathen Philoſophers doe euen reproue moſt ſharpely, yea and what it differs from the calling of euill good, or good euill, which carrieth with it ſuch an heauy curſe <hi>Eſay.</hi> 5.20.<note place="margin">Eſay. 5.20.</note> ſurely I cannot tell. And ſure I am that whilſt we ſo looke vp, <hi>God</hi> will very hardly looke downe. <hi>For if I regard wickednes in my heart,</hi>
+               <note place="margin">Pſal. 66.18.</note> 
+               <hi>the Lord will not heare my prayers,</hi> ſaith <hi>Dauid.</hi>
+            </p>
+            <p>It is obſerueable of the Peacocke, that in beholding his plume of feathers he ſwels and waxeth proud,<note place="margin">Plin. Nat. Hiſt. parts. <hi>1.</hi> lib. <hi>10.</hi> Cap <hi>20.</hi>
+               </note> but looking on his feete, he is abaſhed and aſhamed. So me thinkes ſhould it be with <hi>Man</hi> who reioyceth in ought he enioyeth ſo much as to make him proud. Oh but looke downe a little, behold but the fouleneſſe of thy feete, or rather conſider the filthi<g ref="char:EOLhyphen"/>neſſe of thy affections, and then tell me whether thou canſt looke vp without ſhame. But now leaſt I ſhould ſeeme to glory in any ones wsnt of this ſhame, let me thus breifely paſſe ouer this ſubiect, and bring before you this Publicans ſorrow alſo, which ſeemes to be ſuch as that moſt paſſionate<g ref="char:EOLhyphen"/>ly he ſmites his breaſt. <hi>Ecce Dolor,</hi> behold his Sorrow.</p>
+            <p>
+               <hi>Perge Publicane,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Pars. </seg>tertia</label> 
+               <hi>incaepto opere, vrge et Iuſta,</hi> ſayth an ancient Predicant:<note place="margin">Tho. de Trugilla poſt. Dominic. <hi>10</hi> poſt Penticoſt, Tom. <hi>1</hi> fol. <hi>553 554.555.</hi>
+               </note> Goe on thou humble ſinner hauing begun ſo good a worke, vrge it, be inſtant, and neuer ceaſe till thou haſt perfected what is begunne, for anon heauen will haſtily bow downe to thee, or rather, the <hi>God</hi> of heauen wil bow the heauens, come downe, and helpe thee. <hi>Percutit pectus, quaſi icti<g ref="char:EOLhyphen"/>bus illud è ſomno ſurgere et euigilare faciebat,</hi>
+               <note place="margin">Oſorius ex Theo<g ref="char:EOLhyphen"/>philect. Domi<g ref="char:EOLhyphen"/>nic. <hi>10.</hi> poſt Pen<g ref="char:EOLhyphen"/>tecoſt. Tom. <hi>2.</hi> pag <hi>378.</hi>
+               </note> that is <hi>Theophi<g ref="char:EOLhyphen"/>lacts</hi> conceit, that euen as a Cocke rouſeth himſelfe by clap<g ref="char:EOLhyphen"/>ping his wings, and makes himſelfe fit for crowing: ſo doth this man, by ſmiteing himſelfe, make himſelfe fit for crying. But leauing theſe conceits, let vs ſee the true ſence of this Act.</p>
+            <p>Some interpret it to be a beginning of his Repentance or contrition of heart for ſinnes paſt,<note place="margin">Alfonſus Salm. in Parab. tract. <hi>32</hi> à Sect <hi>13</hi> ad <hi>17.</hi> pag. <hi>260.</hi> &amp;c. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> quarto. Aug. an Pſal. <hi>51.</hi> obiter.</note> ſo <hi>Salmeron:</hi> others hold it to be <hi>Obtritio cordis,</hi> a bruiſeing of the heart, ſo S. <hi>Auſtine:</hi> beyond all theſe I preferre ſuch as vnderſtand it <hi>For a ſigne of an humble ſpirit, and contrite heart, for his ſinnes committed:</hi> Re<g ref="char:EOLhyphen"/>proucing it, for that it had beene the well and pit, roote, and
+<pb n="9" facs="tcp:180834:9"/>originall, yea, the very ſmoke of all euill, and therefore <hi>He ſmites it.</hi>
+            </p>
+            <p>As a Tree that is well rooted in the earth, if it be grubd vp, it will caſt vp the earth that is round about it: ſo Sinne that is deepely rooted in the heart, when a man would plucke it vp, <hi>Cor commotum &amp; afflictum relinquere dobet,</hi>
+               <note place="margin">Stella in loc.</note> it ought to leaue behinde it an aſtoniſhed and an afflicted heart.</p>
+            <p>I remember what I haue read of <hi>Theſius</hi> that Athenian King, who cauſing his owne wife and children to be miſchie<g ref="char:EOLhyphen"/>ouſly murdered, cryed out to the Executioner:<note place="margin">Stella ex Plut. de Thaeſeo &amp; Romulo. Hiſt. <hi>1.3.</hi>
+               </note> 
+               <hi>Percute, Per<g ref="char:EOLhyphen"/>cute ictu valido pectus illud.</hi> &amp;c. Smite, oh Smite, and that with a heauy ſtroake, that heart that hatcheth in it ſuch miſ<g ref="char:EOLhyphen"/>chiefes; wound it, but ſlay it not at an inſtant, for hearts ſo conſcious of miſchiefe, muſt not be put to ſodaine death but ought rather to be brought vnto it by degrees, or rather di<g ref="char:EOLhyphen"/>uerſities of paines. And euen thus dealt this dolefull Publi<g ref="char:EOLhyphen"/>can with his ſinfull heart, <hi>Pectus percuſſit,</hi> he ſmote his Breaſt, yea, his very Heart, <hi>Ex quo omnia peccata pullulant,</hi>
+               <note place="margin">Albertus Mag<g ref="char:EOLhyphen"/>nus in loc.</note> out of which buds all ſinne and iniquitie; euen euill thoughts, Mur<g ref="char:EOLhyphen"/>thers, Fornications, Thefts, falſe teſtimonies, Slanders,<note place="margin">Mat. 15.19.</note> &amp;c. of all, or moſt of which, this man being in all likelihood guilty, He therefore ſmites his Breaſt. <hi>Ecce dolor:</hi> behold his Sorrow, and learne from it; <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>What a ſweet Sacrifice a Sorrow<g ref="char:EOLhyphen"/>full Soule is.</hi>
+            </p>
+            <p>Oh, an Heart Troubled, 1 <hi>Sam.</hi> 1.6. Molten, 2. <hi>King.</hi> 22.19. Afflicted, <hi>Pſal.</hi> 34.18. Anguiſhed, <hi>Pſal.</hi> 77.3. Perplexed, <hi>Pſal.</hi> 143.4. Wounded, <hi>Prouer.</hi> 18.14. Bruiſed, <hi>Iſay.</hi> 42.3. Rent, <hi>Iob.</hi> 2.13. Poore, <hi>Mat.</hi> 5.3. Pricked, <hi>Acts.</hi> 2.37. oh ſuch an heart is <hi>The Sacrifice of Sacrifices,</hi> who ſo hath it, <hi>The Lord is neere vnto them, Pſal.</hi> 34.18. <hi>The Lord will heale them, and binde them vp, Pſal.</hi> 147.3. <hi>The Lord will looke vpon them, Iſay</hi> 66.2. <hi>The Lord will reuiue them, and giue life vnto them, Iſay.</hi> 57.15. And hence it is that the <hi>Penitents</hi> of old are for the moſt part brought in, not onely hauing <hi>Sorrow,</hi>
+               <note place="margin">2. Sam. 24.6.<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> but euen <hi>Indignati<g ref="char:EOLhyphen"/>on and Reuenge:</hi>
+               <note place="margin">2. Sam. 14.10.</note> See <hi>Dauid</hi> once <hi>Touched in heart,</hi>
+               <note place="margin">Pſal. 73.22.</note> another time <hi>Smitten in heart,</hi> a third time <hi>Be-fooleing,</hi>
+               <note place="margin">Cant. 5.4.</note> and <hi>Be-Beaſting him<g ref="char:EOLhyphen"/>ſelfe,</hi> yea, behold <hi>The Spouſe Fretting, Ephraim Smitting;</hi>
+               <note place="margin">Ier. 31.19.</note> and
+<pb n="10" facs="tcp:180834:10"/>
+               <hi>Iob Abborring</hi> himſelfe,<note place="margin">ob. 42.6.</note> heere is their <hi>Iudignation;</hi> yea, but be<g ref="char:EOLhyphen"/>hold their <hi>Reuenge</hi> alſo: <hi>Sinne</hi> which before <hi>Repentance</hi> came was ſo <hi>Deare</hi> vnto them as that they could not endure ſo much as <hi>Reproofe</hi> for it, comes now to be <hi>Reuenged,</hi> and that of <hi>Themſelues,</hi> yea, and <hi>On Themſelues</hi> too: which thing the Apoſtle doth in many places ſweetely ſet out, by <hi>Beating downe the Body,</hi>
+               <note place="margin">Cor. 9.27. Rom. 12.1.</note> 1. <hi>Cor.</hi> 9.27. and by <hi>Sacrificing of the Body, Rom.</hi> 12.1. which in a Penitent lookes for nothing but for a <hi>Clubbe,</hi>
+               <note place="margin">Mat. 5.29.30</note> or a <hi>Knife,</hi> which cuts out the <hi>Right Eye</hi> in regard of <hi>Pleaſure,</hi> and cuts off the <hi>Right hand</hi> in reſpect of <hi>Profit,</hi> and caſts them all away, nay, the very <hi>Heart</hi> ſhall not ſcape the ſcourging, but that ſhall be <hi>Broken</hi> and <hi>Contrite</hi> too, or at leaſt, if we cannot come at <hi>That,</hi> the <hi>Breaſt</hi> ſhall be ſurely <hi>Smitten;</hi> which ſhewes <hi>the vindictiue minde,</hi> and <hi>Reuengefull ſpirit</hi> which is in a <hi>Saint,</hi> that hath beene a <hi>Sinner:</hi> in whom when God hath once entred <hi>That Crucifying Naile</hi> into his <hi>Side,</hi>
+               <note place="margin">Ier. 23.29.</note> he will take the <hi>Hammer of the Law</hi> and driue it in fur<g ref="char:EOLhyphen"/>ther, and hammer it euen to the very <hi>Head,</hi> charging it with its <hi>Dulneſſe, Deafeneſſe</hi> and <hi>Stupidity,</hi> yea, and rateing &amp; ratling it vp for its <hi>Blockiſh beaſtlineſſe,</hi> as ſometimes that re<g ref="char:EOLhyphen"/>nowned Martyr <hi>Cranmer</hi> did his <hi>Right hand,</hi>
+               <note place="margin">Doctor <hi>Fox.</hi>
+               </note> for <hi>Subſcribing to ſome Popiſh Articles,</hi> for which ſaith the ſtory, <hi>He firſt put his Right hand to the fire;</hi> and here this man <hi>ſmites his Breaſt: Totus ergo interiùs &amp; exteriùs veluti quodam humilitatis indu<g ref="char:EOLhyphen"/>mento amictus erat;</hi>
+               <note place="margin">Lud. Granat. concio in Domi<g ref="char:EOLhyphen"/>nic. <hi>10.</hi> poſt Pen<g ref="char:EOLhyphen"/>ticoſt. pag <hi>525.</hi> in <hi>8<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> therefore both inwardly and outwardly would he teſtifie the truth of his contrition, as if he had been from top to toe couered with the garment of humility.</p>
+            <p>But alas poore ſoule why art thou ſo caſt downe, or why art thou ſo diſquieted for thy <hi>Sinnes,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> as if there were no hope in thy <hi>Sauiour?</hi> Oh feare not, neither be diſmaied; for <hi>the fierce indignation</hi> that thou now ſheweſt on thy ſelfe, ſhall ſurely turne away <hi>Gods fiery Indignation</hi> from <hi>thy ſoule:</hi> and therefore poſſeſſe thy ſoule in patience, ſtay a little while for <hi>God,</hi> as well as he hath ſtaid a long while for <hi>thee,</hi> and behold anon he commeth; he commeth with a recompence of his ſeeming ſlackeneſſe, and will for thy beating on thy breaſt fall on thy Necke,<note place="margin">
+                  <hi>Luk</hi> 15.20. <hi>Cant.</hi> 1.1.</note> for thy <hi>Crucifying thy Selfe,</hi> euen <hi>Kiſſe thee
+<pb n="11" facs="tcp:180834:10"/>with the kiſſes of his Lippe:</hi> for the <hi>Renting of thy cloathes, clothe thee with the beſt Robes:</hi> for <hi>thy Faſting, feaſt thee with the Fat Calfe;</hi> and for <hi>thy heauy ſorrowing, hee will giue an Hearty Reioycing,</hi> making his <hi>Miniſters</hi> in the <hi>Church Militant,</hi> and his <hi>Saints and Angels</hi> in the <hi>Church Triumphant,</hi> to be as ſo many <hi>Minſtrels,</hi> or <hi>Muſicians</hi> ſinging vnto thee <hi>one of the Lords Songs in this ſtrange Land.</hi>
+            </p>
+            <p>Oh, but I am not <hi>So Smitten,</hi> that is my <hi>Griefe,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> neither can I <hi>So Sorrow,</hi> that is my <hi>Sorrow.</hi>
+            </p>
+            <p>Why if not <hi>So,</hi> euen <hi>So</hi> as thou <hi>Shouldeſt,</hi> yet doe <hi>So,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> euen <hi>So</hi> as thou <hi>canſt;</hi> ſo as thou doſt it in ſome meaſure, doubt not, nor be diſmaied, but God that hath begun that good worke in thee, will ſurely adde to thy ſtature, encreaſe thy ſtore, and perfect his good worke begunne in thee. If there be but <hi>a Graine of this Grace in thee,</hi> know thou thy ſelfe wonder<g ref="char:EOLhyphen"/>fully <hi>Graced,</hi> for one <hi>Graine,</hi> of what ſort ſoeuer it bee, is as truely <hi>Seed,</hi> as a <hi>Buſhel;</hi> and one <hi>Grace</hi> is as verily <hi>Grace</hi> as if thou hadſt them in that meaſure as they that haue them <hi>Preſſed downe, Shaken together, and Running ouer.</hi> As therefore the <hi>Spirit</hi> ſpake in <hi>Pauls</hi> Buffetings without, and Fightings within, <hi>My Grace is ſufficient for thee,</hi>
+               <note place="margin">Cor. 12.9.</note> 
+               <hi>for my Power ſhall be made manifeſt by thy Weakeneſſe:</hi> ſo I ſay to <hi>Thee; that thou haſt Grace,</hi> oh glorie, and reioyce in That; as for the <hi>Meaſure</hi> let that alone till the <hi>Growing time;</hi> for though the <hi>Winter</hi> be now, yet aſſure thy ſelfe the <hi>Spring</hi> will come, wherein the <hi>Sunne of Righteouſneſſe ſhall riſe in thy Heart, and vnthawe thy Frozen Soule,</hi> ſending out the <hi>Oyle</hi> that ſhall ſupple thy brui<g ref="char:EOLhyphen"/>ſed <hi>conſcience,</hi> and pouring out the <hi>Wine</hi> that ſhall <hi>Lighten thy ſorrowfull heart,</hi> and make thee <hi>glad</hi> aboue all thy <hi>Fellowes,</hi> yea, aboue thy <hi>Condemners</hi> and <hi>Contemners,</hi> nay, aboue <hi>That Phariſee</hi> that points thee out for <hi>This ſo vilde a Publican.</hi> Why therefore as though we were caſt out, ſhould we be ſo much caſt downe? Oh let vs not feare, for,<note place="margin">
+                  <hi>Aretius in</hi> 2 <hi>Cor.</hi> 12.9.</note> 
+               <hi>Si non ex Toto exaudia<g ref="char:EOLhyphen"/>mur, exaudimur tamen Sic, vt Conſolationem habeamus ex ratio<g ref="char:EOLhyphen"/>ne conſilij Deie</hi> If we be not heard in All, let vs not be diſmay<g ref="char:EOLhyphen"/>ed, as if we ſhould not be heard at All; for though hee heares vs not at our pleaſure, he will doe it at his leaſure, when as
+<pb n="12" facs="tcp:180834:11"/>wee ſhall ſurely haue comfort enough, as is well ſeene in the ſecret of his Counſell; And therefore for <hi>That meaſure of ſor<g ref="char:EOLhyphen"/>row</hi> which thou haſt, be therwith content; and then God will adde to thy ſtature, and make thee at the laſt, euen <hi>To weepe bitterly</hi> with <hi>Peter,</hi> and <hi>To waſh thy Bed, and water thy Couch with Dauid;</hi>
+               <note place="margin">Math. 26.75. Pſal. 6.6. Pſal. 119.136.</note> yea, <hi>Guſh out Riuers of water,</hi> with which thou ſhalt ſo rinſe thy <hi>Heart,</hi> and cleanſe thy <hi>Soule,</hi> as thou ſhalt in the <hi>Purity thereof</hi> be ſo bleſſed as to <hi>See God,</hi>
+               <note place="margin">Math. 5.8.</note> and ſo happy as to ſay vnto him, <hi>O God be mercifull vnto me a Sinner.</hi>
+            </p>
+            <p>But I aske once more:<label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> 
+               <hi>Is a ſorrowfull Soule ſuch a ſweet Sa<g ref="char:EOLhyphen"/>crifice?</hi> Be not yee then deceiued who ſay, <hi>We Repent;</hi> and yet the time is to come <hi>that euer you truely ſorrowed.</hi>
+            </p>
+            <p>One ſaith wittily, <hi>That ſome men deale with their ſinnes, as corrupt Courts doe with their Informers;</hi> or as the <hi>Popes doe with their Stewes.</hi> The one whereof becauſe they bring <hi>Many Sackes to their Milles;</hi> and the other, becauſe they bring <hi>Great reuenewes to their coffars,</hi> likes them well enough; tho they know them to be both <hi>Baſe and Beaſtly:</hi> So doe the <hi>Vn<g ref="char:EOLhyphen"/>godly and Impenitent</hi> deale with their ſinnes, which they will not <hi>leaue,</hi> but rather <hi>loue</hi> and cheriſh till death doth them depart, and all becauſe they bring either <hi>Pleaſure,</hi> or <hi>Profit, Honour</hi> or <hi>Exaltation:</hi> Nay, obſerue ſome ſinners, and you ſhall finde them, that when they are <hi>galled</hi> or <hi>grie<g ref="char:EOLhyphen"/>ued</hi> for their ſins, either by <hi>Checke of Conſcience,</hi> or by <hi>Plaine Reproofe</hi> out of the Word, or by ſome <hi>Affliction</hi> or <hi>Iudgement,</hi> yet will they not <hi>Leaue them off,</hi> but as <hi>Beggars</hi> doc by their <hi>Soares,</hi> ſo will they deale by their <hi>ſinnes:</hi> The <hi>former</hi> will not be <hi>Quite healed,</hi> becauſe with a <hi>Little ſmart</hi> they get <hi>ſome Eaſe, and liue in Idleneſſe,</hi> yea, and haue by it <hi>Almes</hi> to their Aduantage, and therefore they cannot endure the <hi>Chirurgi<g ref="char:EOLhyphen"/>an</hi> that will <hi>quite recouer them:</hi> So is it with theſe kinde of <hi>Sinners,</hi> who cannot endure <hi>The Balme of Gilead,</hi> nor yet the <hi>Phyſitian there;</hi> becauſe the one by his <hi>Skill,</hi> the other by its <hi>Healing Power,</hi> would make them <hi>whole euery whit;</hi> But that is not for their <hi>Profit,</hi> and therefore it the <hi>Phyſitian</hi> ſhall bring <hi>a Purging Pill of Reproofe</hi> to cleanſe them, it will not downe, it cannot be endured: <hi>Sweet words</hi> they thinke will
+<pb n="13" facs="tcp:180834:11"/>rather heale their <hi>corrupt ſoares,</hi> and if by any but by <hi>Them</hi> you ſtriue to bring them to this degree of <hi>Sorrow,</hi> as to make them to <hi>Smite their Breaſts,</hi> you ſhall perhaps be <hi>Smitten on your Backes;</hi> if not ſo, (for feare of the <hi>Law</hi>) I am ſure you ſhall haue (without loue to the <hi>Goſpell</hi>) <hi>Ieremiahs</hi> portion,<note place="margin">Ier. 18 18. Gal. 4.16.</note> which was, <hi>To be ſmitten with the Tongue. The galled Gala<g ref="char:EOLhyphen"/>thians</hi> will repute you <hi>Enimies. Gal.</hi> 4.16. <hi>The Amazed and Doubting Iewes</hi> will account you <hi>Full of New wine,</hi>
+               <note place="margin">Acts 2.13.15.</note> 
+               <hi>Acts.</hi> 2.13.15. and euery <hi>Talkatiue Tertullus,</hi> though he be no Orator, wilbe telling it out, that <hi>you are Peſtilent Fellowes, Mouers to Sedition, Acts.</hi> 24.1.2.3.4.5.6.<note place="margin">Acts 24.1.2.3.4.5.6.</note>
+            </p>
+            <p>But oh I beſeech you greeue not the <hi>Spirit, by which yee are ſealed,</hi> and by whom we are ſent to ſpeake the <hi>Truth, The whole Truth, and nothing but the Truth,</hi> as we ſhall anſwere at our maſters appearing, and if you doe <hi>otherwiſe, yea, the very contrary,</hi> know you that all the <hi>Sorrow</hi> you ſhew either by <hi>deiected Countenances,</hi> or <hi>by lifted vp eyes,</hi> or by <hi>Holding vp the Hands,</hi> or by <hi>Bowed Knees,</hi> or <hi>Beating the Breaſt,</hi> or <hi>Crying Lord haue mercy vpon vs,</hi> all theſe things will not ſerue to make vp <hi>true Repentance,</hi> ſuch as will bring <hi>Remiſſion and Forgiueneſſe.</hi> Come therefore I beſeech you, and learne <hi>with Humility and Patience,</hi> what this Sorrowfull ſoule is, which is ſo ſweet a Sacrifice: It is a <hi>Soule full of ſence and feeling, tender of euery ſpot of corruption that cleaues vnto it,</hi> at which <hi>it quickely ſtirres, and checkes, and if it ſlippes, through the frailty of Nature, it grieues and laments, wrings and woes, as being wreched and miſerable, blinde and naked, without Chriſt Ieſus be his Deliuerer.</hi> Get wee then ſuch <hi>Hearts,</hi> ſuch <hi>Breaſts</hi> as <hi>Theſe,</hi> and then feare nothing, but that our comming ſhalbe wel-commed, &amp; our crying heard, if we doe, with my <hi>Publicans</hi> mouth and mind, humbly confeſſe that <hi>we are in Miſery,</hi> and <hi>haue neede of Mercy,</hi> and therefore cry, <hi>O God be Mercifull, &amp;c. Ecce vera Confeſſio, Behold his true</hi> confeſſion, which is the fourth limbe of my Text, of which in the next Sermon you ſhall (by Gods grace) haue the fruit.</p>
+         </div>
+         <div n="2" type="sermon">
+            <pb facs="tcp:180834:12"/>
+            <pb n="15" facs="tcp:180834:12"/>
+            <head>The Picture of a Penitent SINNER.</head>
+            <head type="sub">The ſecond Sermon.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>LVKE 18.13.</hi>
+                  </bibl>
+                  <p>O God be Mercifull to me a Sinner.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE things contained in the former words were:
+<list>
+                  <item>1. His <hi>Feare:</hi>
+                  </item>
+                  <item>2. His <hi>Shame:</hi>
+                  </item>
+                  <item>3. His <hi>Sorrow.</hi>
+                  </item>
+               </list> But now that <hi>Feare</hi> is paſt,<milestone type="tcpmilestone" unit="unspecified" n="1.2."/> that <hi>Shame</hi> is diſcouered,<milestone type="tcpmilestone" unit="unspecified" n="3"/> &amp; that <hi>Sorrow</hi> could not be hid: but had I thought <hi>That all had beene ſo whole as that none of vs had needed the Phyſitian,</hi> I would haue ſpared my paines, and neuer called <hi>the Righteous,</hi> but onely <hi>Sinners to repentance:</hi> Yet let him that is without ſinne caſt the firſt ſtone at me, and then will I leaue preaching to <hi>Them,</hi> and onely pray for <hi>My Selfe; Oh God be Mercifull to MEE a Sinner.</hi>
+            </p>
+            <p>But ſith it cannot be denyed, <hi>That we are all ſinners.</hi> I heartily beſeech you with patience to heed with your hearts what he ſaith with his mouth, and confeſſeth with his tongue, ſaying;—<hi>Oh God be Mercifull to me. A Sinner.</hi> Which is the fourth and laſt generall part of my Text,<label type="milestone">
+                  <seg type="milestoneunit">Pars </seg>quarta.</label> with which I will end in as due time as poſſibly I can.</p>
+            <p>I reade none almoſt weighing theſe words, but that they
+<pb n="16" facs="tcp:180834:13"/>hold them, and handle them too, as words of weight, com<g ref="char:EOLhyphen"/>mending them, not for their <hi>Multitude,</hi> but by their <hi>Magni<g ref="char:EOLhyphen"/>tude;</hi> not by their <hi>Sound,</hi> but for their <hi>Subſtance;</hi> not as <hi>Ver<g ref="char:EOLhyphen"/>ball,</hi> but as <hi>Vertuall.</hi>
+            </p>
+            <p>I remember that <hi>Plato,</hi>
+               <note place="margin">Plato.</note> that Prince of Philoſophers adui<g ref="char:EOLhyphen"/>ſeth, <hi>That in Speaking wee ſhould looke vnto Three things:</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <list>
+                  <item>1. <hi>Ad quem loquimur:</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2.3."/>
+                  </item>
+                  <item>2. <hi>Quid loquimur:</hi>
+                  </item>
+                  <item>3. <hi>Quàm multa loquimur:</hi>
+                  </item>
+               </list>
+Firſt,<milestone type="tcpmilestone" unit="unspecified" n="1.2.3."/> to <hi>Whom we ſpeake:</hi> Secondly, <hi>What we ſay:</hi> Thirdly, <hi>That our words be few.</hi> All which as they are praiſe-worthy in an Orator, ſo in an <hi>Humble, Deuout,</hi> and <hi>Zealous Petitio<g ref="char:EOLhyphen"/>ner:</hi> and conceiue you heere how prettily they are compri<g ref="char:EOLhyphen"/>ſed in theſe words, <hi>O God be mercifull, &amp;c.</hi>
+            </p>
+            <p>Some conceiue this part of my Text to be <hi>A Song,</hi>
+               <note place="margin">D. Boyſes Poſt. in Domine <hi>11.</hi> poſt Trin.</note> which if any grant, they muſt thinke withall that it will beare but a <hi>Dolefull Dittie:</hi> For though the firſt <hi>Note</hi> be rayſed ſo high as to him that is aboue <hi>all Note,</hi> 
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <hi>God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Yet the ſecond hath a more temperate ſtop, moued to <hi>a Meane,</hi> euen <hi>Be mercifull.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> And as for the third, all men will hold it to haue but <hi>an heany Touch,</hi> fitted for the <hi>Baſe, Me a Sinner.</hi>
+            </p>
+            <p>But I am now to <hi>Say,</hi> and not to <hi>Sing,</hi> yea, to preſent vnto you, a <hi>Man of Mourning,</hi> and not of <hi>Mirth,</hi> and therefore I muſt hang vp the <hi>Harpe</hi> on the Willow, and wiſh you once againe to behold the <hi>Man;</hi> and that</p>
+            <list>
+               <item>1. <hi>Confeſſing:</hi>
+                  <note place="margin">1.2.3.</note>
+               </item>
+               <item>2. <hi>Petitioning:</hi>
+               </item>
+               <item>3. <hi>Condemning.</hi>
+               </item>
+            </list>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, behold him <hi>Confeſſing Gods greatneſſe:</hi> as acknowledg<g ref="char:EOLhyphen"/>ing in one word, both His <hi>Kingdome,</hi> and <hi>Power, and Glory for euer and euer. Ecce Fides</hi> therein, behold his Faith. <hi>Ob God.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, behold him <hi>Petitioning Gods goodneſſe;</hi> as aſſu<g ref="char:EOLhyphen"/>ring himſelfe, <hi>That that endureth yet daily: Ecce Petitio,</hi> there<g ref="char:EOLhyphen"/>in ſee his Petition; <hi>Be Mercifull.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, behold him <hi>Condemning his owne wretchedneſſe,</hi> as knowing himſelfe not onely <hi>Sinning,</hi> but euen <hi>Sinfull. Ec<g ref="char:EOLhyphen"/>ce Condemnatio,</hi> Behold his damnatorie Sentence againſt him<g ref="char:EOLhyphen"/>ſelfe, <hi>Mee a Sinner.</hi>
+            </p>
+            <p>
+               <note place="margin">Prima pars.</note>And now if we haue <hi>Faith,</hi> but euen as much as <hi>a Graine
+<pb n="17" facs="tcp:180834:13"/>of Muſtard-ſeed;</hi> then let vs behold <hi>His Faith,</hi> who though a Sinner; nay, which is more euen <hi>A Publican,</hi> yet is he ſo faith<g ref="char:EOLhyphen"/>full as to approach Gods preſence, and to cry, <hi>O God. Ecce Fides,</hi> behold his Faith.</p>
+            <p>
+               <note place="margin">Ludouic. Granat. ex Aug Confeſſ.</note> 
+               <hi>Oh quam Excelſus es Domine? ſed Humiles corde ſunt Sedes tuae,</hi> Oh God how excellent is thy name through all world? and yet thou beholdeſt the humble a farre off, and makeſt <hi>their heart</hi> thy <hi>habitation,</hi> of which my <hi>Publican</hi> being perfect<g ref="char:EOLhyphen"/>ly perſwaded he comes <hi>(though a Sinner)</hi> into the ſight of his and our Sauiour and cryes,<note place="margin">1. Cor. 6 19. Reuel. 3.10</note> 
+               <hi>Oh God,</hi> whence learne we.</p>
+            <p>
+               <hi>In all Croſſes and Calamities,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> 
+               <hi>Diſtreſſes and Miſeries whither to flye, euen vnto God onely, in Chriſt alone, for Comfort.</hi>
+            </p>
+            <p>Looke on <hi>Dauid</hi> in all his <hi>Troubles,</hi> euen when his <hi>Eni<g ref="char:EOLhyphen"/>mies</hi> oppreſſed him, when his <hi>Sinnes</hi> ſuppreſſed him, yea and when his <hi>Sorrowes</hi> could not almoſt be expreſſed of him, in al <hi>Theſe</hi> whither went he? whither fled he? but euen vnto <hi>The Lord his God?</hi> He was ſo ignorant of any praying to <hi>Patri<g ref="char:EOLhyphen"/>arch or Prophet,</hi> to any <hi>Saint or Angell,</hi> as that when he was euen Swallowed vp with Sorrowes he ſaid, <hi>Quis mihi in caelis praeter te? &amp;c. Whom haue I in Heauen beſides Thee?</hi>
+               <note place="margin">Pſal. 7.3.2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>or whom on the Earth in Compariſon of Thee? Non enim eſt in caelo, nec in Terra, aliqua creatura quae mihi ſufficiat pro beatitudine mea,</hi>
+               <note place="margin">Lira in loc.</note> 
+               <hi>&amp;c.</hi> There is not in Heauen, neither can there be on Earth any creature that can content me for bleſſednes, but onely <hi>Thou Oh God:</hi> but what? <hi>None</hi> but <hi>God?</hi> what ſay you to <hi>The Holy Angells?</hi> why alas, <hi>They are but Miniſtring Spirits,</hi>
+               <note place="margin">Heb. 1.14.</note> 
+               <hi>Heb.</hi> 1.14 in whom there is no helpe without <hi>Thee Oh God: They</hi> haue in<g ref="char:EOLhyphen"/>deede wrought wonders, but it hath beene through <hi>This Power,</hi> and for <hi>This his Glory,</hi>
+               <note place="margin">Fabritius in Pſal <hi>73.25.</hi> fol. <hi>648</hi> in fol.</note> 
+               <hi>In quos tamen fiduciam non collo<g ref="char:EOLhyphen"/>candum, illis non intendum, illos pro Rupe &amp; Portione noſtra non habendos monemur in Sacris literis:</hi> In whom though we muſt put no confidence, they muſt not be our ſtay, we muſt not eſteeme them as our rocke or portion, as it is plainely pointed out in holy Scripture, yea but if not vnto <hi>Angells in Heauen</hi> what ſay you then vnto <hi>Men</hi> and <hi>Other creatures on Earth?</hi> Surely for <hi>Them</hi> I may alſo ſay:<note place="margin">Reuel<g ref="char:punc">▪</g> 19.10.22.9. Pſal. 62.9.146.5</note> 
+               <hi>In his omnibus nulla fiducia ponenda eſt,</hi> That in all or any of them there is no confidence
+<pb n="18" facs="tcp:180834:14"/>to be put; as the word it ſelfe doth euidently and infinitely witneſſe.<note place="margin">Prou 3.5. Ier. 9.24.17.7.</note> Yea and whither elſe ſhould <hi>The Sinner</hi> flie? Is there any-where ſo pretious <hi>Balme</hi> as in <hi>Gilead;</hi> are there in any place ſuch skilfull <hi>Phyſitians</hi> as <hi>There?</hi> are the Lame healed any where ſo ſoone as in <hi>The Poole of Betheſda:</hi> no. neither is there any hope of <hi>Helpe for a Sinner</hi> but in his <hi>onely Sauiour,</hi> to whom he muſt call, and on whom hee muſt cry; <hi>Oh God.</hi>
+            </p>
+            <p>Which if it be ſo,<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> learne yee then not to leane on <hi>Thoſe Reeds of Aegypt,</hi> nor <hi>Staues of Rome,</hi> nor <hi>Pillars of Babylon,</hi> who ſay, <hi>That if thou beeſt ſmitten thou muſt flye to this Saint, or that Angell for Helpe and Saccour,</hi> which if we deny we ſhall pre<g ref="char:EOLhyphen"/>ſently haue a <hi>Romiſh Colt</hi> for to kicke at vs with his <hi>Heele,</hi> and call it <hi>Grauem Haereticorum errorem,</hi>
+               <note place="margin">Mazarinus Ieſu<g ref="char:EOLhyphen"/>it, in Pſal. <hi>51.</hi> Concio <hi>125.</hi> fol. <hi>250.251.</hi> in <hi>4<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </note> A grieuous errour of He<g ref="char:EOLhyphen"/>retickes; and marke his reaſon, which is as <hi>Strong</hi> as <hi>True;</hi> for it is confirmed by the Councell of <hi>Coline</hi> held in the yeare 1549. vnder <hi>Adolphus Archbiſhop</hi> of that Prouince, ſo that if there it were to be found it muſt needs be ſound. Yea, but what will you ſay if that Ieſuit did but ſpeake without booke?<note place="margin">Vide Lauren. Surius. Tom. <hi>4.</hi> à fol <hi>833.</hi> ad <hi>856.</hi>
+               </note> Sure I am, that if any credit may be giuen to a <hi>Car<g ref="char:EOLhyphen"/>thuſian</hi> Collector of the Councells, euen to <hi>Laurentius Su<g ref="char:EOLhyphen"/>rius,</hi> hee hath not one word thereof in all their Decrees; yet he to grace his margent with a Councell, will needes coun<g ref="char:EOLhyphen"/>ſell his Proſelites, from them that neuer ſaid it, <hi>That they ſhould goe from their Creator to a Poore Creature:</hi> Oh, what are theſe but Doctors of <hi>Gentiliſme?</hi> For among them you ſhall read of ſo many Gods, as that poore <hi>Atlas</hi> ſhoulders were not broad enough to beare them,<note place="margin">Juuenal. in Satyr.</note> as <hi>Neptune</hi> for Troy; <hi>
+                  <g ref="char:V">Ʋ</g>enus</hi> for Cyprus; <hi>Minerua</hi> for Athens; <hi>Iuno</hi> for Carthage; <hi>Mars</hi> for Rome, &amp;c. And hath not Rome now conſecrated <hi>Oxen</hi> to S. <hi>Luke;</hi>
+               <note place="margin">Mazarinus vbi ſupra. fol. <hi>126.</hi>
+               </note> the <hi>Purſſe</hi> to <hi>S. Sythe; Horſes</hi> to <hi>S. Loy; Teeth</hi> to <hi>S. Apolina; Swine</hi> to <hi>S. Anthony;</hi> the <hi>Throate</hi> to <hi>S. Baſil?</hi> Yes, yes,<note place="margin">Benedicti fon<g ref="char:EOLhyphen"/>tis. Secundum vſum Sarum. fol. <hi>15 16.</hi> an. <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 604.</hi> Letania Rom. in Com. Suffrag. fol. <hi>85.86.</hi>
+               </note> it is euident, and which is much more Lamentable, euen their ſoules too, to no leſſe then to ſome ſcores of Saints, as is apparant in their Romane <hi>Miſſals,</hi> and common <hi>Suffrages,</hi> with their Catechiſmes and bookes of Deuotion euery where to be ſeene, euen in Engliſh. But herein let them doe
+<pb n="19" facs="tcp:180834:14"/>as it ſhall ſeeme good in thè eyes of <hi>His Holineſſe of Rome;</hi> but as for <hi>
+                  <g ref="char:V">Ʋ</g>s</hi> and <hi>Our Children,</hi> Oh come, let vs <hi>Worſhip and fall downe and Kneele</hi> (onely) <hi>before the Lord our maker,</hi> ſaying vnto him alone, <hi>Oh God.</hi>
+            </p>
+            <p>But againe, if we muſt ſo doe,<label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>2</label> I maruell not a little at thoſe that being in any ſtraight or diſtreſſe, will preſently runne to the Cunning woman of <hi>Endor</hi> with <hi>Saul,</hi>
+               <note place="margin">1 Sam. 28.7.8 2 King 1.2.3.</note> or to <hi>Baal-zebub</hi> the God of <hi>Ekron</hi> with <hi>Ahaziah;</hi> but take heed of ſuch cour<g ref="char:EOLhyphen"/>ſes for feare leſt Gods holy Angels <hi>Meete with your Meſſen<g ref="char:EOLhyphen"/>gers,</hi> which ſhall aſſure you that you ſhall neuer either <hi>Pro<g ref="char:EOLhyphen"/>ſper</hi> or <hi>Recouer:</hi> Nay, which is worſe, let him take heed <hi>That God doth not ſet his face againſt him,</hi>
+               <note place="margin">Leuit. 20.7.</note> 
+               <hi>and cut him off from his People.</hi> Oh therefore take heede of going from the <hi>God of Iſrael,</hi> to the <hi>Idol of Ekron,</hi> from <hi>Samuel</hi> in Ramoth, to the <hi>Witch</hi> of <hi>Endor,</hi> from the <hi>Riuers</hi> of Samaria to the <hi>Waters</hi> of Damaſcus, from <hi>God</hi> to the Diuell, for ſurely for ſuch an hey<g ref="char:EOLhyphen"/>nous ſin, God will bring an heauie Reuenge, and therefore with my <hi>Publican,</hi> rather cry, <hi>O God.</hi>
+            </p>
+            <p>But in the laſt place let me hence admoniſh you of that which is vtterly a fault among ſome: that is,<label type="milestone">
+                  <seg type="milestoneunit">Vſe </seg>3</label> That they will neuer fall to their <hi>Prayers, vntill they fall into grieuous Extre<g ref="char:EOLhyphen"/>mities.</hi> Some if <hi>Heauineſſe</hi> poſſeſſe them, they will get them into <hi>merry Company;</hi> yea, they will <hi>hang vp Care,</hi> and <hi>drinke downe Sorrow;</hi> All which when they haue done, they ſhall finde it doing them as much good, as cold water doth him that drinkes in the fit of his <hi>Burning Feauer:</hi> yea, euen as much comfort is there to the ſoule in ſuch courſes, as was from <hi>Dauids ſweete Harpe,</hi> to <hi>Sauls vexing heart,</hi> which <hi>Eaſed</hi> him for a while,<note place="margin">1 Sam. 16.16.23. 1 Sam. 31.4.5.</note> but afterwards <hi>tormented</hi> him euen to Death. Theſe are but toyes, and can bring no ſolace to a troubled ſoule; for howſoeuer in time of our <hi>Security</hi> we la<g ref="char:EOLhyphen"/>bour to ſmother and quench the <hi>Burning fire of a wounded ſpi<g ref="char:EOLhyphen"/>rit</hi> by <hi>Externall delights,</hi> yet as laſt <hi>Affection</hi> will be ſilenced, and <hi>Conſcience</hi> will pronounce ſentence againſt vs, and that with ſo ſhrill a voyce as that the <hi>Deafeſt Adder</hi> ſhall heare it, and the <hi>merrieſt Companion</hi> ſhall ſay, that there is no way for the allaying of this ſpirit but one, euen by <hi>Going vnto the
+<pb n="20" facs="tcp:180834:15"/>right Humbly,</hi> and by <hi>Calling on his Name moſt Earneſtly,</hi> and ſaying, <hi>Oh God be mercifull.</hi>
+            </p>
+            <p>Oh but there is in me ſuch <hi>Dulneſſe</hi> of Fleſh,<label type="milestone">
+                  <seg type="milestoneunit">Ob. </seg>
+               </label> and <hi>Heaui<g ref="char:EOLhyphen"/>neſſe</hi> of Spirit, there is ſuch <hi>Vanity</hi> and <hi>Vexation,</hi> as that I am altogether vnfit for God, both <hi>weakeneſſe</hi> and <hi>wickedneſſe</hi> hath ſo compaſſed me about, and hembd mee in on euerie ſide, as that I dare not looke vp vnto ſuch an one as God is.</p>
+            <p>This is indeed an heauie temptation,<label type="milestone">
+                  <seg type="milestoneunit">Sol. </seg>
+               </label> and ſuch as out of it Sathan ſuckes no ſmall aduantage, for by it he would bring vs to <hi>An vtter diſuſe of prayer,</hi> and ſo take from vs our beſt weapon that we haue in all our warfare: This was <hi>Dauids</hi> caſe for a while,<note place="margin">Pſal. 77.3.4.</note> who whilſt he thought on <hi>God</hi> he was <hi>Trou<g ref="char:EOLhyphen"/>bled,</hi> and when hee <hi>Prayed</hi> his Spirit was full of <hi>Heauineſſe;</hi> yea, when <hi>hee awakened he was aſtoniſhed, and could not ſpeake:</hi> And why was <hi>Dauid</hi> ſo diſquieted?<note place="margin">Franciſcus de Puteo. Aurea <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ate<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a in loc.</note> 
+               <hi>Vel quia turbatus erat re<g ref="char:EOLhyphen"/>cordatione peccatorum proquibus pio dolore cruciatur,</hi> ſaith <hi>Caſ<g ref="char:EOLhyphen"/>ſiodor; Vel quia videns iram Dei per ea excitatam,</hi> ſaith <hi>Lyra; Vel quia non habuit audaciam aliquid petendi à Deo praeconfuſione,</hi> ſaith <hi>The Gloſſe:</hi> He was ſo ſore troubled, either becauſe of the remembrance of his ſinnes, for which he was euen cruci<g ref="char:EOLhyphen"/>fied with a godly ſorrow in his ſoule: or becauſe he ſaw the wrath of God kindled againſt him for them: or becauſe hee had not the face to looke God in the face, becauſe of the confuſion that was before him; yea, but that he may be an enſample for vs to follow,<note place="margin">Verſ. 6.</note> ſee what hee ſaith, <hi>Verſe</hi> 6. <hi>I cal<g ref="char:EOLhyphen"/>led to my remembrance my ſong in the night, &amp;c. &amp;c.</hi> Yea, <hi>Verſ.</hi> 10. <hi>I remembred</hi> (ſaith he) <hi>the yeares of the Right hand of the moſt High,</hi>
+               <note place="margin">Verſ. 10.</note> v. 11. <hi>I remembred the workes of the Lord,</hi>
+               <note place="margin">Verſ. 11.</note> 
+               <hi>his Won<g ref="char:EOLhyphen"/>ders of old,</hi> 
+               <note place="margin">12.</note>
+               <hi>and deuiſed on his Acts, v.</hi> 12. and out of this ſuckt he no ſmall aduantage;<note place="margin">Caſſiodorus in loc.</note> 
+               <hi>Quia in haec cogitatione nullum eſt taedi<g ref="char:EOLhyphen"/>um, nulla ſatietas, ſed quantò qui plus hauſerit, tantò plus dulcia ſenſu perquirit,</hi> ſaith <hi>Caſsiodor:</hi> for in ſuch thoughts as theſe he found no irkeſomeneſſe, no tediouſneſſe, but by how much the deeper hee drew, by ſo much the more ſweet hee found the comfort of it to his ſenſes, yea, to his ſoule: And therefore in the greateſt of the aboundance of thy griefe, poure out thy ſoule, and what thou art not able to expreſſe
+<pb n="21" facs="tcp:180834:15"/>in <hi>Words,</hi> make it vp in <hi>Sighes and Groanes;</hi>
+               <note place="margin">Lam. 2.18.</note> and as <hi>Ieremiah</hi> hath it, <hi>Let thine Heart cry it,</hi> though with <hi>Hannah,</hi>
+               <note place="margin">1 Sam. 1.13.</note> 
+               <hi>Thy Lippes onely are ſeene to moue:</hi> Oh ſo doe, and thou ſhalt ſee how it will moue the <hi>God of mercy,</hi> euen to <hi>Pitty and Com<g ref="char:EOLhyphen"/>paſsion,</hi> doing vnto thee as thine heart deſireth; which is, <hi>To be mercifull vnto thee. Ecce Petitio.</hi> Behold his Petition.<note place="margin">2<hi rend="sup">da</hi>. 4<hi rend="sup">tae</hi>.</note> 
+               <hi>Be Mercifull.</hi>
+            </p>
+            <p>
+               <hi>Oh verbum ſatis Breue, ſed vehementer Efficax:</hi>
+               <note place="margin">Diez. Luſitanus in Loc.</note> Oh heere is a word wonderfull ſhort, but maruellous effectuall, yea ſo effectuall as that our Sauiour himſelfe puts to his <hi>Fiat,</hi> verſ. 14. <hi>That he went away more iuſtified then the Phariſee. <g ref="char:V">Ʋ</g>eritas dicit, Deus dicit. Iudex dicit.</hi> Truth ſpeakes it, God ſaith it,<note place="margin">Auguſt. in loc.</note> yea, the ludge of all hath adiudged it, and therefore it is moſt ſure.</p>
+            <p>If a man ſhould come into the Church, and ſee theſe di<g ref="char:EOLhyphen"/>uerſities of behauiour in theſe two men: The <hi>Phariſee crake<g ref="char:EOLhyphen"/>ing,</hi> and the <hi>Publican crying,</hi> whereto might he liken them? ſurely to nothing better then to the <hi>Corne in the Field,</hi>
+               <note place="margin">Tho. de Trucille. catena poſt in loc.</note> which the more <hi>Full</hi> it is, the more it hangs <hi>Downeward,</hi> but the <hi>Emptier</hi> it is, the <hi>Higher</hi> it is <hi>Exalted;</hi> euen ſo is it with theſe two men: The <hi>Former, like a light Eare, ſtands vpright,</hi> ſay<g ref="char:EOLhyphen"/>ing, <hi>Oh God I thanke thee, I am not as other men,</hi> or as this <hi>Publi<g ref="char:EOLhyphen"/>can,</hi> v. 11. <hi>Ecce ſuperba iactantia,</hi> behold his proud boaſting: But the <hi>Latter,</hi> like a <hi>Full Eare, ſtoopes downe,</hi> and cryes, <hi>Oh God be Mercifull.</hi>
+            </p>
+            <p>
+               <hi>Nulla praetendit Merita, nullas adfertexcuſationes,</hi>
+               <note place="margin">Alfonſ. Salmer. in loc. Tract. <hi>32.</hi> à Sect <hi>13.</hi> ad <hi>17</hi>
+               </note> 
+               <hi>ſed ſe Pec<g ref="char:EOLhyphen"/>catorem liberè confitetur,</hi> ſaith <hi>Salmeron,</hi> a <hi>Ieſuite:</hi> He pretends not Merits (as they of their Synagogue doe) He extenuates not his ſinnes (by making them <hi>Veniall</hi> as he himſelfe doth) but hee freely confeſſeth them: <hi>Propitiationem petens,</hi>
+               <note place="margin">Ibid.</note> 
+               <hi>per quam ſibi appropinquare dignetur,</hi> crying for <hi>Mercy,</hi> by which one<g ref="char:EOLhyphen"/>ly hee might be eſteemed worthy of approach amidſt his Miſerie. In the ſame ſtreame runnes another, though other<g ref="char:EOLhyphen"/>wiſe a Papiſt, ſaying; <hi>Non allego Merita mea, quae nulla habeo,</hi>
+               <note place="margin">Lud. Granat. in loc. Concio <hi>1.</hi>
+               </note> 
+               <hi>ſed prouoco ad miſericordiam:</hi> I dare not pleade my <hi>Merits,</hi> for they are altogether none, but I will vrge thy <hi>Mercy,</hi> for that endureth for euer, and therefore I acknowledging my ſin, Pardon, oh pardon mine iniquity, and <hi>be mercifull vnto
+<pb n="22" facs="tcp:180834:16"/>me a Sinner.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> Whence note—<hi>That</hi> (euen by the iudge<g ref="char:EOLhyphen"/>ment of Papiſts) <hi>Mercy, not Merit, is the beſt of a Sinners Plea, in making ſuite againſt his ſinnes.</hi>
+            </p>
+            <p>The <hi>wounded and diſtreſſed Beggar</hi> when he would haue an <hi>Almes,</hi> doth not <hi>cracke</hi> of his <hi>Country,</hi> he ſtands not on <hi>his Gentility,</hi> but rather hee <hi>Opens his Sores, Lies in his Ragges, deplores his lamentable eſtate,</hi> and by theſe hee calls on <hi>the Paſſengers for pittie;</hi> ſo ſhould it be with the <hi>Sinner,</hi> who is full of <hi>Sin and Shame,</hi> whoſe <hi>ſoare runnes and ceaſeth not,</hi> who might euen <hi>Roare</hi> with <hi>Diſquietneſſe of heart,</hi> becauſe of the <hi>Encreaſe of his iniquities;</hi> and what remaines then ſaue onely <hi>Obteſtations, Obſecrations, Importunate entreaties,</hi> grounded vpon <hi>Grace,</hi> and all accompanied with an abſolute diſclai<g ref="char:EOLhyphen"/>ming of all, ſauing onely, The goodneſſe of God. <hi>Bee Mercifull.</hi>
+            </p>
+            <p>As from the <hi>Sunne,</hi>
+               <note place="margin">Diez<g ref="char:punc">▪</g> Lucitan. Summa Praedi. Tit. Miſericord.</note> 
+               <hi>Moone,</hi> and other of the <hi>Planets,</hi> (which are as it were the <hi>Eyes of the world,</hi>) as by the Aſpect of them, ſo many good things grow, as <hi>Gold in the Earth,</hi> and <hi>Graſſe on it;</hi> yea, <hi>Gemmes,</hi> and <hi>Iewels, Hearbs</hi> and <hi>Flowers:</hi> So by <hi>Gods</hi> beholding vs in <hi>Mercy, Diuerſa quae<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> bona in animis gig<g ref="char:EOLhyphen"/>nentur,</hi> euery good and perfect gift are begotten in, and got<g ref="char:EOLhyphen"/>ten to our ſoules, which may bring <hi>Comfort</hi> to the <hi>Conſci<g ref="char:EOLhyphen"/>ence, Ioy</hi> to the <hi>Heart, Solace</hi> to the <hi>Soule,</hi> and what can wee doe leſſe, yea, or what elſe but cry, <hi>O God be mercifull?</hi>
+            </p>
+            <p>And if this be ſo:<label type="milestone">
+                  <seg type="milestoneunit">Ʋſe. </seg>
+               </label> Come downe then thou <hi>Crakeing Pha<g ref="char:EOLhyphen"/>riſee,</hi> and <hi>Boaſting Iuſticiarie,</hi> who yet doſt ſtand in it, That there is ſomething in thee for which <hi>thou art worthy to be heard;</hi> If there be ſo, then I pray thee ſhew it by theſe three enſuing ſignes, and then will I ſay, <hi>That thou art more wor<g ref="char:EOLhyphen"/>thy then Other men are, or then this Publican.</hi>
+            </p>
+            <list>
+               <item>Firſt,<milestone type="tcpmilestone" unit="unspecified" n="1"/> if thou beeſt <hi>Free,</hi> and not <hi>bound of Dutie to doe that which thou doſt,</hi> then <hi>Boaſt.</hi>
+               </item>
+               <item>Secondly,<milestone type="tcpmilestone" unit="unspecified" n="2"/> if thou beeſt able, <hi>Of thy ſelfe,</hi> and <hi>By thy ſelfe, to doe what thou doeſt,</hi> then <hi>Boaſt.</hi>
+               </item>
+               <item>Thirdly,<milestone type="tcpmilestone" unit="unspecified" n="3"/> if when <hi>once</hi> thou haſt <hi>done Well, thou neuer after<g ref="char:EOLhyphen"/>wards committeſt Euill,</hi> then <hi>Boaſt.</hi>
+               </item>
+            </list>
+            <p>But who can thus doe? and therefore, Why Boaſteſt thou
+<pb n="23" facs="tcp:180834:16"/>thy ſelfe? or rather why with <hi>Feare, Shame</hi> and <hi>Sorrow</hi> ſmit<g ref="char:EOLhyphen"/>teſt thou not thy Breaſt, and ſayſt not, <hi>O God be mercifull?</hi>
+            </p>
+            <p>Surely, if I might be thought worthy to make a Preſident for them that haue any <hi>Suite</hi> into the <hi>Court of Requeſts,</hi> I ſhould caſt his <hi>Purpoſes</hi> into this <hi>Mould,</hi> and bring it in, in this Manner, <hi>Be mercifull:</hi> for as <hi>mercy</hi> is the inducement to be a ſuiter, ſo the maine ground of my Petition ſhall be <hi>mercy,</hi> the ſubſtance of my requeſt <hi>mercy,</hi> and the ſcope and concluſion, <hi>mercy;</hi> and then I ſhall not feare, but that <hi>mercy</hi> being my <hi>plea, mercy</hi> ſhall be my <hi>Portion;</hi> for God can<g ref="char:EOLhyphen"/>not but ſhew <hi>mercy,</hi> where the <hi>Need of mercy is felt,</hi> where the <hi>Deſire of mercy is vnfeigned,</hi> and when the <hi>Suite of mer<g ref="char:EOLhyphen"/>cy is importunate.</hi> And therefore I amidſt <hi>Popiſh Merit-mon<g ref="char:EOLhyphen"/>gers,</hi> who come with their workes, <hi>Ex Congruo &amp; Condigno;</hi>
+               <note place="margin">Tho. Aquin. <hi>1<hi rend="sup">ma</hi>
+                     <g ref="char:punc">▪</g> 2.</hi> quaeſt. <hi>114.</hi> Ar<g ref="char:EOLhyphen"/>tio <hi>3.</hi> Reynerius Sum<g ref="char:EOLhyphen"/>mae ſub Tit. Me<g ref="char:EOLhyphen"/>ritum cap. <hi>5.</hi> Rhemiſts An<g ref="char:EOLhyphen"/>not. in Rom. <hi>8.18.</hi> Annot. <hi>5.</hi>
+               </note> for <hi>Price, Value,</hi> and <hi>Worth;</hi> and among our <hi>Hypocriticall Pro<g ref="char:EOLhyphen"/>feſſors,</hi> who alſo come with their <hi>Diſta, ſtand off, For I am holier then thou;</hi> I, euen I, come &amp; ſtand betweene them both, praying for Chriſts <hi>Propitiation,</hi> and ſaying: <hi>Oh God be mer<g ref="char:EOLhyphen"/>cifull, for I am a ſinner. Ecce condemnatio:</hi> Behold his Dam<g ref="char:EOLhyphen"/>natorie ſentence, <hi>Mee a Sinner.</hi>
+            </p>
+            <p>Marke heere, that he doth not ſay, I am one that ſinneth,<note place="margin">3<hi rend="sup">•a</hi>. 4<hi rend="sup">tae</hi>.</note> as in the <hi>Concrete,</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Mihi Peccatori,</hi>
+               <note place="margin">Hugo Card. Alfonſ. Salmar. Gorran. in loc. <hi>Ioh. 9.34.</hi>
+               </note> 
+               <hi>Me a Sinner</hi> in the <hi>Abſtract;</hi> yea, euen ſuch an one in deed and truth, as the Phariſees reputed the <hi>Blinde man,</hi> Ioh. 9.34. <hi>Euen a man wholly borne in ſinne.</hi>
+            </p>
+            <p>
+               <hi>What, ſuch a Sinner?</hi> how dareſt thou then to approach <hi>This Preſence?</hi> With what face canſt thou come into <hi>Theſe Courts?</hi> Doth not the Scripture tell thee, <hi>That God heareth not Sinners?</hi> Ioh. 9.31. how much leſſe <hi>Publicanes,</hi>
+               <note place="margin">Ioh. 9.31.</note> which are fitter for <hi>Harlots houſes, Math.</hi> 21.31,<note place="margin">Math. 21.31.</note> then to be ſeene at <hi>Heauen Gates?</hi> For what thinkeſt thou, if <hi>Men</hi> will not caſt <hi>Pearle</hi> before <hi>Swine,</hi> or caſt <hi>Breade</hi> vnto <hi>Dogges,</hi>
+               <note place="margin">Math. 7.6.</note> will <hi>God</hi> then (thinke you) <hi>ſhew mercy vnto Sinners?</hi>
+               <note place="margin">Math. 15.26.</note> Oh I verily be<g ref="char:EOLhyphen"/>leeue, That though hee will not caſt them <hi>Pearles,</hi> yet they ſhall haue <hi>Acrons;</hi> though hee will not giue them <hi>whole loaues,</hi> yet ſhall they taſte of his <hi>crummes:</hi>
+               <note place="margin">Math. 6.26. Math. 5.45. Pſal. 147.9.</note> For hee that <hi>clothes the graſſe of the Field, Feedes the Rauens, Shines with his
+<pb n="24" facs="tcp:180834:17"/>Sunne on the Euill; Shewers downe his Raine on the Vniuſt: Hee</hi> (I verily beleeue) will alſo be <hi>mercifull to me a Sinner;</hi> yea, and from this <hi>Humble Confeſsion,</hi> I dare pronounce <hi>an Abſo<g ref="char:EOLhyphen"/>lution;</hi> ſaying,<label type="milestone">
+                  <seg type="milestoneunit">Doct. </seg>
+               </label> in the holy Apoſtles words; — <hi>That if we acknowledge our ſinnes,</hi>
+               <note place="margin">Ioh. 1.9.</note> 
+               <hi>he is Faithfull, and Iuſt to for giue vs our ſinnes, and to cleanſe vs from all our vnrighteouſneſſe.</hi>
+            </p>
+            <p>Had this poore Penitent liued in <hi>Rome,</hi> or among the Ro<g ref="char:EOLhyphen"/>maniſts of old, he had not ſo ſoone had either <hi>Iuſtification</hi> or <hi>Abſolution:</hi>
+               <note place="margin">Concil. Trid. Seſſ. <hi>14.</hi> cap. <hi>9.</hi> can. <hi>13.14.</hi> Caſſand, de Con<g ref="char:EOLhyphen"/>feſſ. Artic. <hi>12.</hi> Tollet. Ieſ. Inſti<g ref="char:EOLhyphen"/>tut. l. <hi>3.</hi> c. <hi>II.</hi>
+               </note> for beſides his <hi>Contrition</hi> and <hi>Confeſſion</hi> they would haue had <hi>Satisfaction,</hi> not by a <hi>Griefe</hi> onely, or by <hi>Reſtitution,</hi> which we hold both laudable, lawfull, yea, and neceſſarie too; but ſuch <hi>Satisfaction</hi> would they exact as, <hi>Ex proprijs &amp; ad aqualstatem, ac per hoc Iuſte &amp; ex Condigno ſatiſ<g ref="char:EOLhyphen"/>facere poſſumus:</hi> As our owneact, whereby we may alſo ſatisfie according to the meaſure of equality,<note place="margin">Bellar, lib.<hi>4.</hi> de Poenit. c. <hi>7.</hi>
+               </note> by the merit of condig<g ref="char:EOLhyphen"/>nitie, as <hi>ſatisfying the iuſtice of Gods law violated.</hi> Oh ſuch <hi>Sa<g ref="char:EOLhyphen"/>tisfaction</hi> who can make? ſurely no man, which though wee cannot doe, yet let vs not ceaſe to confeſſe humbly, and pray heartily: <hi>O God be mercifull to me a Sinner.</hi>
+            </p>
+            <p>S. <hi>Gregorie</hi> was of the minde,<note place="margin">Greg. Moral. <hi>26.</hi>
+               </note> that, <hi>Apud aures Dei vox va<g ref="char:EOLhyphen"/>lida deuota confeſſio eſt:</hi> A lowly Confeſſion was a lowd Peti<g ref="char:EOLhyphen"/>tion in Gods eares.<note place="margin">Gen. 18.27.</note> 
+               <hi>Abraham</hi> confeſſed, <hi>I am but Duſt and Aſhes, Gen.</hi> 18.27. Now ſaith one: <hi>As Aſhes doe preſerue and keepe in fire, ſo doth an Humble Confeſſion aſſure Fauour.</hi> You ſee that <hi>The lower the Pit, the ſweeter the water;</hi> and be we al<g ref="char:EOLhyphen"/>ſo aſſured, <hi>That the lowlyer the Sinner, the more louing our Sauiour.</hi>
+               <note place="margin">Pſal 32.5.</note> 
+               <hi>Dauid</hi> did but ſay, <hi>I will confeſſe my ſinner,</hi> and hear<g ref="char:EOLhyphen"/>ken what is ſaid further, <hi>Thou forgaueſt me the puniſhment of my ſinne.</hi> Loe heere, <hi>Nondum pronunciat, ſed ſolum promittit, &amp; Deus iam dimittit:</hi>
+               <note place="margin">Caſſiod in loc.</note> As yet hee doth not confeſſe but he ſaith, <hi>I will confeſſe,</hi> and yet God forgiues: <hi>Nondum eſt vox in Ore vt Confeſsionem exaudiat Homo, ſed &amp; Deus audit:</hi> As yet what hee meanes in his minde, is not come to his mouth, but before his confeſſion is heard of men, his petition is granted of God.</p>
+            <p>An other patterne of his readineſſe herein haue we in the Parabel of the <hi>Prodigall,</hi>
+               <note place="margin">Luke 15.18.</note> wherein you can no ſooner heare
+<pb n="25" facs="tcp:180834:17"/>the <hi>ſonne;</hi> ſaying, <hi>Ego ſurgam,</hi> I will ariſe, but you may alſo ſee, that <hi>Pater Surgit,</hi> the father doth ariſe: notably figuring vnto vs how gratious the Lord is, and how ready to forgiue: oh bleſſed ſoule wherein <hi>Mercy and Truth</hi> ſo meete together and kiſſeth each other; for here is <hi>Truth in the Sonne,</hi> and therefore the <hi>Father</hi> meets him with <hi>Mercy.</hi>
+               <note place="margin">Ver. 20.</note> Nay if you note that which is recorded <hi>ver.</hi> 20. you cannot but ſay with <hi>S. Bernard: Non pari vbertate fluunt Amans &amp; Amor;</hi>
+               <note place="margin">S. Bern. in Cant. Ser. <hi>8.</hi>
+               </note> 
+               <hi>Sponſus &amp; Sponſa; Creator &amp; Creatura; non magis quám Sitiens &amp; Fons:</hi> that as there is great difference betweene the flowing of the Ocean, and of a little Riuer, and there is great odds betweene that which the thirſty man drinkes, and that which the foun<g ref="char:EOLhyphen"/>taine hath to giue him; ſo is there betweene the creature lo<g ref="char:EOLhyphen"/>uing God, and God who is loue it ſelfe: come therfore and let vs all ſtoope in humilitie, and he will raiſe vs in Mercy, let vs confeſſe that we are Sinners, and he will ſurely raiſe vs vp a Sauiour.</p>
+            <p>A Sinner? who confeſſeth not this? and if <hi>This</hi> be enough, who hopes not to be a <hi>Saint?</hi> yea, but I wil ſay of the <hi>Confeſſi<g ref="char:EOLhyphen"/>on</hi> of our times as <hi>S. Iames</hi> did of <hi>Petitioning in his time;</hi>
+               <note place="margin">Iam. 4.2.</note> 
+               <hi>Yee Confeſſe,</hi> but yee <hi>Confeſſe amiſſe;</hi> you ſay for the generall <hi>That you are Sinners,</hi> but you cannot abide to ſay, <hi>where in Particulars;</hi> oh <hi>thoſe Pierce,</hi> and <hi>Dart Deepe. That all haue erred and ſtrayed like loſt Sheepe,</hi> the whole congregation will confeſſe; yea, but if the Miniſter ſhall ſay <hi>wherein,</hi> as naming the peoples <hi>Simplicity,</hi> or <hi>Senſuality;</hi> their <hi>Enuie,</hi> or <hi>Ignorance;</hi> their <hi>Pride,</hi> or <hi>Couetuouſneſſe;</hi> you would be ready to ſay, <hi>That That were too much;</hi> yea, <hi>That</hi> ſome hold <hi>vnneceſſa<g ref="char:EOLhyphen"/>ry,</hi> ſince <hi>Auricular Confeſſion</hi> grew out of date; which manner of confeſſion, the Popiſh Prieſts made a Bawd to their owne <hi>luſt;</hi> (as if becauſe that is not required that we make confeſſi<g ref="char:EOLhyphen"/>on of our ſinnes who cannot helpe vs, we might conceale them from <hi>God</hi> before whom our conſciences may accuſe vs) but hearken to the Wiſe-mans ſentence,<note place="margin">Pro. 28.13.</note> which mee thinkes is heauy: <hi>Hee that Hideth his Sinnes ſhall not proſper;</hi>
+               <note place="margin">Aug de Verbit Dom. Ser. <hi>36.</hi> com. <hi>10.</hi>
+               </note> 
+               <hi>but he that Confeſſeth and Forſaketh them ſhall haue Mercy. Dum Agnoſ<g ref="char:EOLhyphen"/>cit Reus, Ignoſcit Deus,</hi> Whilſt the Guilty Confeſſeth, the <hi>God</hi> of Mercy pardoneth.</p>
+            <pb n="26" facs="tcp:180834:18"/>
+            <p>Yea,<note place="margin">S. Bernlin ſpecu<g ref="char:EOLhyphen"/>lo Monachi.</note> but then it muſt be on good conditions too, for tis not euery <hi>Confeſſion</hi> that will bring <hi>Remiſſion. Know</hi> you ther<g ref="char:EOLhyphen"/>fore that the conditions of this preſent Obligation is ſuch<g ref="char:punc">▪</g> that if it be,
+<list>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.<hi>Faire.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.<hi>Feeling.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.<hi>Free.</hi>
+                  </item>
+                  <item>
+                     <milestone type="tcpmilestone" unit="unspecified" n="4"/> 4.<hi>Full.</hi>
+                  </item>
+               </list> Then it is a <hi>well-conditioned-confeſsi<g ref="char:EOLhyphen"/>on</hi> indeed.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, I ſay it muſt be <hi>Faire,</hi> that is, <hi>Pura &amp; Simplici Intenti<g ref="char:EOLhyphen"/>ons,</hi>
+               <note place="margin">Bern. vbi ſupra. Ludol. de Sax. de vita Chriſti pars <hi>1<hi rend="sup">ma</hi>.</hi> cap. <hi>41.</hi>
+               </note> with a pure and ſimple intention. <hi>Teipſum oſtendens, non Alios:</hi> Shewing of Shrifting thy ſelfe rather then others.</p>
+            <p>Secondly, it muſt be <hi>Feeling:</hi> that is, ſuch an one as ari<g ref="char:EOLhyphen"/>ſeth <milestone type="tcpmilestone" unit="unspecified" n="2"/> out of either the <hi>weight or wickedneſſe of our ſinnes,</hi> in the feeling of either of which, wee are forced to confeſſe with <hi>Teares, That they are weighty, and weariſome.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, it muſt be <hi>Free,</hi> not <hi>Forced</hi> or <hi>Conſtrained,</hi> either by <hi>Mans Lawes,</hi> or <hi>Gods Iudgements,</hi> as they that by <hi>Plague</hi> or, <hi>Penurie,</hi> by <hi>Sickeneſſe</hi> or <hi>Sting of an euill conſcience,</hi> haue had their ſinnes extorted from them.<note place="margin">Greg. Epiſt. lib. <hi>5.</hi> cap. <hi>44.</hi> Indictib. <hi>14.</hi> fol. <hi>393.</hi>
+               </note> No ſaith <hi>S. Gregory, Confeſſio extortafacit crimen,</hi> acknowledgment enforced proues faulty, tis not <hi>Freewill offering,</hi> and therefore not regarded, nor re<g ref="char:EOLhyphen"/>warded.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Fourthly, it muſt be <hi>Full,</hi> not vp to the <hi>Lips</hi> alone, but full to the very <hi>Heart,</hi> which conſiſts not of a <hi>particularizing of ſome of our faults,</hi> or <hi>culling out of our chiefe tranſgreſsions,</hi> with Termes of Generall acknowledgement, but euen with a <hi>Ripping vp of the Specialties:</hi>
+               <note place="margin">Pſal. 51. 4. 1 Tim. 1.13.</note> ſaying with <hi>Dauid, This euill huae I done:</hi> With <hi>Paul, I was a Perſecutor, a Blaſphemer, an Op<g ref="char:EOLhyphen"/>preſſor.</hi> Oh, better were it that we did euen <hi>ſet our ſinnes in Order by an Humble Confeſsion,</hi> then ſuffer God to ſet them in Order by <hi>a dreadfull remuneration,</hi>
+               <note place="margin">Pſal. 50. 21. <hi>Bernard.</hi>
+               </note> come therefore and let vs take the counſell of <hi>Mellifluous Bernard,</hi> which is this:</p>
+            <list>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> 1.<hi>Vide vnde veneris, &amp; Erubeſce:</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> 2.<hi>Vbies, &amp; Ingemiſce:</hi>
+               </item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> 3.<hi>Quòvadis &amp; Contremiſce.</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="27" facs="tcp:180834:18"/>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt, looke from whence thou art, and be Aſhamed.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, where thou art, and be Grieued.</item>
+               <item>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Thirdly, whither thou muſt, and be Terrified.</item>
+            </list>
+            <p>Theſe be the Pathes of a Penitent, which will no longer liue like a Publican: like a notable and notorious Sinner, but like an holy and religious Saint.</p>
+            <p>But doth my Publican <hi>confeſſe,</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Ʋſe </seg>1</label> and plainely ſay, <hi>That he is a Sinner,</hi> Oh where then ſhall appeare thoſe that are as no<g ref="char:EOLhyphen"/>tably notorious as <hi>He,</hi> and yet are found either to <hi>Conceale,</hi> or to <hi>Excuſe,</hi> or to <hi>Extenuate,</hi> or to <hi>deny;</hi> or, which is worſt of all, to <hi>defend their ſinnes?</hi> Of any of which, if any that heare me this day be Guiltie, I beſeech them in Chriſts ſteed, that as they hope for <hi>Abſolution,</hi> ſo they would come to <hi>Confeſſion:</hi> For hereby you ſhall.
+<list>
+                  <item>
+                     <hi>Bring Glory to God.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+                  </item>
+                  <item>2. <hi>Confuſion to Sathan:</hi>
+                  </item>
+                  <item>3. And <hi>Peace to your owne Soules.</hi>
+                     <milestone type="tcpmilestone" unit="unspecified" n="2.3."/>
+                  </item>
+               </list> Come wee then to Gods houſe right earely, and right humbly, and when we pray, let vs ſhew rather <hi>
+                  <g ref="char:V">Ʋ</g>ulnera,</hi> then <hi>Munera,</hi> our wounds, then our worth; our <hi>Miſery,</hi> then our <hi>Brauery,</hi> our <hi>Ragges</hi> then our <hi>Robes:</hi> for which though the <hi>World</hi> con<g ref="char:EOLhyphen"/>demnes vs for <hi>Puritanes,</hi> yet if <hi>Chriſt</hi> doth commend vs for <hi>Penitents</hi> it matters not much; for hereby we ſhall haue <hi>Glo<g ref="char:EOLhyphen"/>ry</hi> after our <hi>Shame,</hi> when as they ſhall be <hi>aſhamed</hi> of their <hi>glory.</hi> Let vs remember once againe what we are, euen <hi>Stewards,</hi> and let vs not forget, <hi>That we muſt render an Ac<g ref="char:EOLhyphen"/>count of our Stewardſhip:</hi>
+               <note place="margin">Iſodor. Sum. cap. <hi>14.</hi>
+               </note> 
+               <hi>Codex ergo Rationum conſcribendus eſt;</hi> It were well therfore that a count-book were kept, <hi>Hic codex conſcientia noſtra eſt, &amp;c.</hi> and this booke is our Conſcience, wherein our ſinnes both great and ſmall ſhould be written, that there they may be <hi>viewed,</hi> and being <hi>viewed</hi> they may be <hi>confeſſed,</hi> and being <hi>confeſſed</hi> they may be <hi>lamented,</hi> and being <hi>lamented</hi> they may be <hi>pardoned,</hi> and being <hi>pardoned,</hi> we may be <hi>Euerlaſtingly comforted:</hi> All which that we may haue, let vs take to vs this Peereleſſe Patterne, and with him come vnto God. 1. In Feare, <hi>ſtanding a farre off:</hi> 2. With Shame, <hi>Not lifting vp our Eyes to heauen:</hi> 3. With Sorrow, <hi>Smiting our Breaſts:</hi> 4. With Confeſſion and Petition, <hi>Saying, O God be mercifull to me a ſinner.</hi> And the <hi>Though our ſinnes were as
+<pb n="28" facs="tcp:180834:19"/>red as ſcarlet,</hi>
+               <note place="margin">Iſay 1.18.</note> 
+               <hi>they ſhall be as Wooll; though they were as crim<g ref="char:EOLhyphen"/>ſon, they ſhall be made as white as ſnow.</hi> For we ſhall be <hi>cleanſed with his Bloud, arayed with his Garments, graced with his Ver<g ref="char:EOLhyphen"/>tues,</hi> and <hi>glorified for his Names ſake.</hi> All which holy Father, grant vnto vs <hi>in Ieſus Chriſt: To whom with Thee and the Holy Spirit be rendred and aſcribed all Honour and Glory, Power and Praiſe, for euer and for euer<g ref="char:EOLhyphen"/>more, Amen, Amen, Amen.</hi>
+            </p>
+         </div>
+         <div type="doctrines">
+            <head>The Doctrines contained in the two fore<g ref="char:EOLhyphen"/>going SERMONS.</head>
+            <list>
+               <head>Sermon I.</head>
+               <item>
+                  <label>Doct. 1.</label> VVIth what reuerence and feare, Sinners ſhould approach Gods preſence. <hi>Pag 6.</hi>
+               </item>
+               <item>
+                  <label>Doct. 2.</label> It is indeed a good ſigne for a ſinner, or rather of a Saint, to be abaſhed and aſhamed. <hi>Pag. 9.</hi>
+               </item>
+               <item>
+                  <label>Doct. 3.</label> What a ſweete ſacrifice a ſorrowfull ſoule is. <hi>Pag. 15.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Sermon II.</head>
+               <item>
+                  <label>Doct. 1.</label> IN all croſſes and calamities, diſtreſſes and miſeries whi<g ref="char:EOLhyphen"/>ther to flye, euen to God onely in Chriſt alone for comfort. <hi>Page 17</hi>
+               </item>
+               <item>
+                  <label>Doct. 2.</label> That mercy, not merit, is the beſt of a Sinners plea, in making ſuit againſt his ſinnes. <hi>Pag. 22.</hi>
+               </item>
+               <item>
+                  <label>Doct. 3.</label> That if we acknowledge our ſinnes, hee is faithfull and iuſt to forgiue vs our ſinnes, and to cleanſe vs from all our vn<g ref="char:EOLhyphen"/>righteouſneſſe. <hi>Pag. 24.</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180834:19"/>
+            <pb facs="tcp:180834:20"/>
+            <pb facs="tcp:180834:20"/>
+            <pb facs="tcp:180834:21"/>
+            <pb facs="tcp:180834:21" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
